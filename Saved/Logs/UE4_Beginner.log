@@ -1758,3 +1758,205 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.23-11.55.43:077][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter01_BuiltData" FILE="../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01_BuiltData.uasset" SILENT=true
 [2019.07.23-11.55.43:111][980]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter01_BuiltData2635497F41ED110CC383E58C18E697DF.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01_BuiltData.uasset'
 [2019.07.23-11.55.47:721][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.23-11.57.09:457][468]LogHttp: Warning: 000001B572327600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.23-11.57.09:457][468]LogHttp: Warning: 000001B572327600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.23-11.57.09:457][468]LogHttp: Warning: 000001B572327600: libcurl info message cache 1 (Closing connection 25)
+[2019.07.23-11.57.09:457][468]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B82E8A438-4450-FBA0-957E-30AE729CC5B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.23-11.59.09:939][827]LogHttp: Warning: 000001B572327600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.23-11.59.09:939][827]LogHttp: Warning: 000001B572327600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.23-11.59.09:939][827]LogHttp: Warning: 000001B572327600: libcurl info message cache 1 (Closing connection 26)
+[2019.07.23-11.59.10:273][828]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B82E8A438-4450-FBA0-957E-30AE729CC5B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.23-12.01.10:817][188]LogHttp: Warning: 000001B572327600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.23-12.01.10:817][188]LogHttp: Warning: 000001B572327600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.23-12.01.10:817][188]LogHttp: Warning: 000001B572327600: libcurl info message cache 1 (Closing connection 27)
+[2019.07.23-12.01.10:817][188]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B82E8A438-4450-FBA0-957E-30AE729CC5B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.23-12.01.42:318][369]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.23-12.01.44:277][441]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.23-12.01.45:450][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.23-12.01.45:982][520]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.23-12.01.47:291][576]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.23-12.01.48:224][623]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.23-12.01.48:397][624]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.23-12.02.10:784][956]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.23-12.02.10:888][960]LogTemp: Repeating last play command: Simulate
+[2019.07.23-12.02.10:909][960]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.02.10:909][960]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.23-12.02.10:909][960]PIE: New page: SIE session: Level_Chapter01 (Jul 23, 2019, 11:02:10 PM)
+[2019.07.23-12.02.10:910][960]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.23-12.02.10:943][960]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033142s)
+[2019.07.23-12.02.10:944][960]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.23-12.02.10:944][960]LogPlayLevel: PIE: World Init took: (0.001381s)
+[2019.07.23-12.02.10:944][960]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.034835s)
+[2019.07.23-12.02.10:977][960]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.23-12.02.10:996][960]LogInit: FAudioDevice initialized.
+[2019.07.23-12.02.11:034][960]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.23-12.02.11:035][960]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 0) at 2019.07.23-17.32.11
+[2019.07.23-12.02.11:036][960]LogWorld: Bringing up level for play took: 0.001506
+[2019.07.23-12.02.11:050][960]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.913
+[2019.07.23-12.02.11:057][960]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.02.17:428][294]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.02.17:428][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.23-12.02.17:479][294]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.23-12.02.17:479][294]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.02.17:505][294]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.23-12.02.17:535][295]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.07.23-12.02.19:402][354]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.23-12.02.22:306][459]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.07.23-12.02.24:259][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.23-12.02.31:002][890]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.07.23-12.02.34:098][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.23-12.02.34:123][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter01" FILE="../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.23-12.02.34:392][ 48]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter012A39467E4018A23FF2B24286285C88D7.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap'
+[2019.07.23-12.02.34:428][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter01_BuiltData" FILE="../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01_BuiltData.uasset" SILENT=true
+[2019.07.23-12.02.34:462][ 48]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter01_BuiltData5E3983DF4C1D1C3C81439BB40BA51616.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01_BuiltData.uasset'
+[2019.07.23-12.03.11:218][192]LogHttp: Warning: 000001B5BB70E5C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.23-12.03.11:218][192]LogHttp: Warning: 000001B5BB70E5C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.23-12.03.11:218][192]LogHttp: Warning: 000001B5BB70E5C0: libcurl info message cache 1 (Closing connection 28)
+[2019.07.23-12.03.11:219][192]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B82E8A438-4450-FBA0-957E-30AE729CC5B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.23-12.05.05:304][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.23-12.05.11:274][804]LogHttp: Warning: 000001B5723247C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.23-12.05.11:274][804]LogHttp: Warning: 000001B5723247C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.23-12.05.11:274][804]LogHttp: Warning: 000001B5723247C0: libcurl info message cache 1 (Closing connection 29)
+[2019.07.23-12.05.11:274][804]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B82E8A438-4450-FBA0-957E-30AE729CC5B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.23-12.05.46:216][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.23-12.05.52:964][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.23-12.05.53:065][ 46]LogTemp: Repeating last play command: Simulate
+[2019.07.23-12.05.53:090][ 46]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.05.53:090][ 46]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.23-12.05.53:090][ 46]PIE: New page: SIE session: Level_Chapter01 (Jul 23, 2019, 11:05:53 PM)
+[2019.07.23-12.05.53:090][ 46]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.23-12.05.53:111][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020413s)
+[2019.07.23-12.05.53:112][ 46]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.23-12.05.53:112][ 46]LogPlayLevel: PIE: World Init took: (0.001437s)
+[2019.07.23-12.05.53:112][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.022027s)
+[2019.07.23-12.05.53:149][ 46]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.23-12.05.53:166][ 46]LogInit: FAudioDevice initialized.
+[2019.07.23-12.05.53:202][ 46]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.23-12.05.53:204][ 46]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 0) at 2019.07.23-17.35.53
+[2019.07.23-12.05.53:204][ 46]LogWorld: Bringing up level for play took: 0.001020
+[2019.07.23-12.05.53:218][ 46]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 1.081
+[2019.07.23-12.05.53:221][ 46]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.05.54:533][ 94]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.07.23-12.05.54:574][ 94]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.23-12.05.55:393][160]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.07.23-12.05.55:432][160]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.23-12.05.56:042][208]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape2)
+[2019.07.23-12.05.56:084][208]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.23-12.05.56:711][257]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.07.23-12.05.57:249][278]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.07.23-12.05.58:152][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.23-12.06.13:247][196]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.06.13:249][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.23-12.06.13:302][196]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.23-12.06.13:302][196]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.06.13:330][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.23-12.06.13:362][197]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.07.23-12.06.16:307][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.23-12.06.16:332][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter01" FILE="../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.23-12.06.16:467][334]LogTexture: Display: Building textures: Texture2D_257 (BGRA8, 256X256)
+[2019.07.23-12.06.16:680][334]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter01BFAB9C54496D59B3D650A3BDFCC6672A.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap'
+[2019.07.23-12.06.16:722][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter01_BuiltData" FILE="../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01_BuiltData.uasset" SILENT=true
+[2019.07.23-12.06.16:787][334]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter01_BuiltData8F360AC647EF83287FA08F9FBC1AD601.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01_BuiltData.uasset'
+[2019.07.23-12.07.11:676][511]LogHttp: Warning: 000001B48DC6B4C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.23-12.07.11:676][511]LogHttp: Warning: 000001B48DC6B4C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.23-12.07.11:676][511]LogHttp: Warning: 000001B48DC6B4C0: libcurl info message cache 1 (Closing connection 30)
+[2019.07.23-12.07.12:013][512]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B82E8A438-4450-FBA0-957E-30AE729CC5B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.23-12.07.38:374][355]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.23-12.08.54:695][557]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.23-12.08.54:839][563]LogTemp: Repeating last play command: Simulate
+[2019.07.23-12.08.54:861][563]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.08.54:861][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.23-12.08.54:861][563]PIE: New page: SIE session: Level_Chapter01 (Jul 23, 2019, 11:08:54 PM)
+[2019.07.23-12.08.54:862][563]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.23-12.08.54:899][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037652s)
+[2019.07.23-12.08.54:901][563]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.23-12.08.54:902][563]LogPlayLevel: PIE: World Init took: (0.002276s)
+[2019.07.23-12.08.54:902][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.040183s)
+[2019.07.23-12.08.54:932][563]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.23-12.08.54:954][563]LogInit: FAudioDevice initialized.
+[2019.07.23-12.08.54:987][563]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.23-12.08.54:990][563]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 0) at 2019.07.23-17.38.54
+[2019.07.23-12.08.54:990][563]LogWorld: Bringing up level for play took: 0.001689
+[2019.07.23-12.08.55:003][563]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.867
+[2019.07.23-12.08.55:005][563]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.09.07:976][301]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.09.07:976][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.23-12.09.08:030][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.23-12.09.08:030][301]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.09.08:056][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.23-12.09.08:086][302]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.07.23-12.09.12:050][519]LogHttp: Warning: 000001B48DCE6480: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.23-12.09.12:050][519]LogHttp: Warning: 000001B48DCE6480: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.23-12.09.12:050][519]LogHttp: Warning: 000001B48DCE6480: libcurl info message cache 1 (Closing connection 31)
+[2019.07.23-12.09.12:067][520]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B82E8A438-4450-FBA0-957E-30AE729CC5B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.23-12.09.25:193][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.23-12.09.25:215][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter01" FILE="../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.23-12.09.25:384][266]LogTexture: Display: Building textures: Texture2D_257 (BGRA8, 256X256)
+[2019.07.23-12.09.25:568][266]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter01BE2D8B204047E643C0BBC48264D3BF1B.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap'
+[2019.07.23-12.09.25:620][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter01_BuiltData" FILE="../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01_BuiltData.uasset" SILENT=true
+[2019.07.23-12.09.25:669][266]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter01_BuiltDataD062D12D48C8D855EFC639AA0DCC38C2.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01_BuiltData.uasset'
+[2019.07.23-12.10.41:041][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.23-12.11.05:623][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.23-12.11.05:742][265]LogTemp: Repeating last play command: Simulate
+[2019.07.23-12.11.05:764][265]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.11.05:764][265]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.23-12.11.05:764][265]PIE: New page: SIE session: Level_Chapter01 (Jul 23, 2019, 11:11:05 PM)
+[2019.07.23-12.11.05:764][265]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.23-12.11.05:786][265]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021885s)
+[2019.07.23-12.11.05:788][265]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.23-12.11.05:788][265]LogPlayLevel: PIE: World Init took: (0.001375s)
+[2019.07.23-12.11.05:788][265]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.023540s)
+[2019.07.23-12.11.05:816][265]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.23-12.11.05:838][265]LogInit: FAudioDevice initialized.
+[2019.07.23-12.11.05:873][265]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.23-12.11.05:874][265]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 0) at 2019.07.23-17.41.05
+[2019.07.23-12.11.05:875][265]LogWorld: Bringing up level for play took: 0.001055
+[2019.07.23-12.11.05:889][265]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 -0.247
+[2019.07.23-12.11.05:893][265]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.11.12:118][611]LogHttp: Warning: 000001B5BB70D1C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.23-12.11.12:118][611]LogHttp: Warning: 000001B5BB70D1C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.23-12.11.12:118][611]LogHttp: Warning: 000001B5BB70D1C0: libcurl info message cache 1 (Closing connection 32)
+[2019.07.23-12.11.12:136][612]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B82E8A438-4450-FBA0-957E-30AE729CC5B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.23-12.11.21:918][178]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.11.21:919][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.23-12.11.21:969][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.23-12.11.21:970][178]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.11.21:996][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.23-12.11.22:026][179]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.07.23-12.11.31:446][667]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.23-12.11.31:469][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter01" FILE="../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.23-12.11.31:645][667]LogTexture: Display: Building textures: Texture2D_257 (BGRA8, 256X256)
+[2019.07.23-12.11.31:879][667]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter01A6FC4ED547EA8CBF4E400198513D1DC4.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap'
+[2019.07.23-12.11.31:923][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter01_BuiltData" FILE="../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01_BuiltData.uasset" SILENT=true
+[2019.07.23-12.11.31:953][667]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter01_BuiltData1C0DEF4441D576B36B60D7BD539EA84F.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01_BuiltData.uasset'
+[2019.07.23-12.13.12:708][163]LogHttp: Warning: 000001B5925B0B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.23-12.13.12:708][163]LogHttp: Warning: 000001B5925B0B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.23-12.13.12:709][163]LogHttp: Warning: 000001B5925B0B80: libcurl info message cache 1 (Closing connection 33)
+[2019.07.23-12.13.13:044][164]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B82E8A438-4450-FBA0-957E-30AE729CC5B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.23-12.14.25:541][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.23-12.14.25:662][559]LogTemp: Repeating last play command: Simulate
+[2019.07.23-12.14.25:681][559]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.14.25:682][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.23-12.14.25:682][559]PIE: New page: SIE session: Level_Chapter01 (Jul 23, 2019, 11:14:25 PM)
+[2019.07.23-12.14.25:682][559]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.23-12.14.25:704][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021669s)
+[2019.07.23-12.14.25:706][559]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.23-12.14.25:706][559]LogPlayLevel: PIE: World Init took: (0.001211s)
+[2019.07.23-12.14.25:706][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.023453s)
+[2019.07.23-12.14.25:735][559]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.23-12.14.25:756][559]LogInit: FAudioDevice initialized.
+[2019.07.23-12.14.25:793][559]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.23-12.14.25:794][559]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 0) at 2019.07.23-17.44.25
+[2019.07.23-12.14.25:794][559]LogWorld: Bringing up level for play took: 0.001101
+[2019.07.23-12.14.25:808][559]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 -0.328
+[2019.07.23-12.14.25:810][559]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.14.29:368][741]Cmd: SELECT NONE
+[2019.07.23-12.14.31:438][851]Cmd: SELECT NONE
+[2019.07.23-12.14.32:758][926]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.14.32:759][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.23-12.14.32:810][926]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.23-12.14.32:811][926]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.23-12.14.32:837][926]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.23-12.14.32:868][927]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2019.07.23-12.14.34:284][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.23-12.14.37:764][177]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
