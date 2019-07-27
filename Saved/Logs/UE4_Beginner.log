@@ -2339,3 +2339,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.27-11.04.43:107][247]LogWorld: Bringing up level for play took: 0.012579
 [2019.07.27-11.04.43:121][247]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.025
 [2019.07.27-11.04.43:147][247]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.05.03:004][548]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.05.03:005][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-11.05.03:111][548]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-11.05.03:111][548]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.05.03:169][548]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-11.05.03:465][549]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.07.27-11.05.11:976][722]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-11.05.13:842][759]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-11.05.13:864][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter01" FILE="../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.27-11.05.17:338][759]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter0185F888AC4D6E6449E09C40B9EAB62238.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap'
+[2019.07.27-11.05.32:849][759]LogFileHelpers: Saving map 'Level_Chapter01' took 18.986
