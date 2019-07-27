@@ -2670,3 +2670,686 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.27-11.25.07:540][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter01" FILE="../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2019.07.27-11.25.10:790][466]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter0157F052AF42B3155221198C874C40B1CB.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap'
 [2019.07.27-11.25.26:295][466]LogFileHelpers: Saving map 'Level_Chapter01' took 18.756
+[2019.07.27-11.26.25:272][576]LogHttp: Warning: 0000019888AD7D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-11.26.25:272][576]LogHttp: Warning: 0000019888AD7D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-11.26.25:272][576]LogHttp: Warning: 0000019888AD7D80: libcurl info message cache 1 (Closing connection 65)
+[2019.07.27-11.26.25:607][577]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-11.28.25:979][936]LogHttp: Warning: 0000019888AD7D80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-11.28.25:979][936]LogHttp: Warning: 0000019888AD7D80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-11.28.25:979][936]LogHttp: Warning: 0000019888AD7D80: libcurl info message cache 1 (Closing connection 66)
+[2019.07.27-11.28.26:313][937]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-11.29.23:208][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-11.29.43:702][472]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.07.27-11.30.17:383][435]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.07.27-11.30.24:909][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-11.30.25:041][666]LogTemp: Repeating last play command: Simulate
+[2019.07.27-11.30.25:080][666]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.30.25:080][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-11.30.25:081][666]PIE: New page: SIE session: Level_Chapter01 (Jul 27, 2019, 10:30:25 PM)
+[2019.07.27-11.30.25:081][666]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-11.30.25:293][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.211867s)
+[2019.07.27-11.30.25:296][666]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-11.30.25:297][666]LogPlayLevel: PIE: World Init took: (0.004372s)
+[2019.07.27-11.30.25:298][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.216763s)
+[2019.07.27-11.30.25:343][666]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-11.30.25:384][666]LogInit: FAudioDevice initialized.
+[2019.07.27-11.30.25:426][666]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-11.30.25:439][666]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-17.00.25
+[2019.07.27-11.30.25:439][666]LogWorld: Bringing up level for play took: 0.012434
+[2019.07.27-11.30.25:456][666]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.359
+[2019.07.27-11.30.25:479][666]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.30.26:379][688]LogHttp: Warning: 000001990F929D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-11.30.26:379][688]LogHttp: Warning: 000001990F929D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-11.30.26:379][688]LogHttp: Warning: 000001990F929D00: libcurl info message cache 1 (Closing connection 67)
+[2019.07.27-11.30.26:409][689]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-11.30.40:523][187]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.30.40:523][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-11.30.40:598][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-11.30.40:599][187]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.30.40:648][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-11.30.40:843][188]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2019.07.27-11.30.42:838][250]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.07.27-11.31.34:888][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-11.32.11:678][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-11.32.22:639][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-11.32.25:588][394]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.07.27-11.32.26:453][421]LogHttp: Warning: 00000198EB911E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-11.32.26:453][421]LogHttp: Warning: 00000198EB911E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-11.32.26:453][421]LogHttp: Warning: 00000198EB911E40: libcurl info message cache 1 (Closing connection 68)
+[2019.07.27-11.32.26:453][421]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-11.32.30:681][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-11.32.50:476][287]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-11.33.10:500][982]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.07.27-11.33.13:426][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-11.33.13:571][ 84]LogTemp: Repeating last play command: Simulate
+[2019.07.27-11.33.13:619][ 84]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.33.13:619][ 84]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-11.33.13:619][ 84]PIE: New page: SIE session: Level_Chapter01 (Jul 27, 2019, 10:33:13 PM)
+[2019.07.27-11.33.13:619][ 84]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-11.33.13:853][ 84]LogPlayLevel: PIE: StaticDuplicateObject took: (0.233467s)
+[2019.07.27-11.33.13:856][ 84]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-11.33.13:857][ 84]LogPlayLevel: PIE: World Init took: (0.003433s)
+[2019.07.27-11.33.13:857][ 84]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.237177s)
+[2019.07.27-11.33.13:904][ 84]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-11.33.13:949][ 84]LogInit: FAudioDevice initialized.
+[2019.07.27-11.33.13:991][ 84]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-11.33.14:005][ 84]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-17.03.14
+[2019.07.27-11.33.14:005][ 84]LogWorld: Bringing up level for play took: 0.012718
+[2019.07.27-11.33.14:020][ 84]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.924
+[2019.07.27-11.33.14:042][ 84]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.33.26:559][532]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.33.26:559][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-11.33.26:631][532]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-11.33.26:631][532]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.33.26:672][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-11.33.26:865][533]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2019.07.27-11.34.27:096][762]LogHttp: Warning: 00000198EB912C00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-11.34.27:096][762]LogHttp: Warning: 00000198EB912C00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-11.34.27:096][762]LogHttp: Warning: 00000198EB912C00: libcurl info message cache 1 (Closing connection 69)
+[2019.07.27-11.34.27:429][763]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-11.35.38:533][967]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter01_Auto73B37D7CF4C068733BC8B5C8661212BAC.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Autosaves/Game/Maps/Level_Chapter01_Auto7.umap'
+[2019.07.27-11.35.38:542][967]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Chapter01' took 2.387
+[2019.07.27-11.35.38:543][967]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.387
+[2019.07.27-11.35.42:549][ 92]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.07.27-11.35.43:545][111]LogEditorViewport: Clicking on Actor (context menu): InstancedFoliageActor (InstancedFoliageActor)
+[2019.07.27-11.35.44:163][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-11.35.45:442][138]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.07.27-11.36.01:760][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-11.36.01:854][615]LogTemp: Repeating last play command: Simulate
+[2019.07.27-11.36.01:888][615]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.36.01:889][615]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-11.36.01:890][615]PIE: New page: SIE session: Level_Chapter01 (Jul 27, 2019, 10:36:01 PM)
+[2019.07.27-11.36.01:890][615]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-11.36.02:115][615]LogPlayLevel: PIE: StaticDuplicateObject took: (0.224913s)
+[2019.07.27-11.36.02:117][615]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-11.36.02:117][615]LogPlayLevel: PIE: World Init took: (0.001872s)
+[2019.07.27-11.36.02:118][615]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.227098s)
+[2019.07.27-11.36.02:155][615]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-11.36.02:189][615]LogInit: FAudioDevice initialized.
+[2019.07.27-11.36.02:229][615]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-11.36.02:242][615]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-17.06.02
+[2019.07.27-11.36.02:243][615]LogWorld: Bringing up level for play took: 0.012332
+[2019.07.27-11.36.02:257][615]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 1.161
+[2019.07.27-11.36.02:278][615]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.36.17:257][125]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.36.17:257][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-11.36.17:330][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-11.36.17:330][125]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.36.17:378][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-11.36.17:436][126]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2019.07.27-11.36.25:323][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-11.36.31:428][408]LogHttp: Warning: 0000019911CF7600: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-11.36.31:428][408]LogHttp: Warning: 0000019911CF7600: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-11.36.31:428][408]LogHttp: Warning: 0000019911CF7600: libcurl info message cache 1 (Closing connection 70)
+[2019.07.27-11.36.31:443][409]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-11.36.51:640][176]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (firelogs)
+[2019.07.27-11.36.59:675][483]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-11.37.02:010][577]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.07.27-11.37.08:404][833]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape2)
+[2019.07.27-11.37.08:789][833]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-11.37.09:970][878]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.07.27-11.37.16:558][169]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.07.27-11.37.20:601][349]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.07.27-11.37.50:690][650]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.07.27-11.37.52:108][709]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-11.37.53:288][762]LogTemp: Repeating last play command: Simulate
+[2019.07.27-11.37.53:335][762]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.37.53:336][762]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-11.37.53:336][762]PIE: New page: SIE session: Level_Chapter01 (Jul 27, 2019, 10:37:53 PM)
+[2019.07.27-11.37.53:336][762]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-11.37.53:573][762]LogPlayLevel: PIE: StaticDuplicateObject took: (0.236925s)
+[2019.07.27-11.37.53:574][762]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-11.37.53:575][762]LogPlayLevel: PIE: World Init took: (0.001365s)
+[2019.07.27-11.37.53:575][762]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.238581s)
+[2019.07.27-11.37.53:630][762]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-11.37.53:671][762]LogInit: FAudioDevice initialized.
+[2019.07.27-11.37.53:710][762]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-11.37.53:723][762]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-17.07.53
+[2019.07.27-11.37.53:724][762]LogWorld: Bringing up level for play took: 0.012496
+[2019.07.27-11.37.53:740][762]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.644
+[2019.07.27-11.37.53:766][762]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.38.04:910][169]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.38.04:911][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-11.38.04:968][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-11.38.04:969][169]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.38.05:020][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-11.38.05:153][170]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2019.07.27-11.38.06:845][246]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (firelogs)
+[2019.07.27-11.38.08:658][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-11.38.27:861][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-11.38.31:467][362]LogHttp: Warning: 000001990F929940: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-11.38.31:467][362]LogHttp: Warning: 000001990F929940: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-11.38.31:467][362]LogHttp: Warning: 000001990F929940: libcurl info message cache 1 (Closing connection 71)
+[2019.07.27-11.38.31:501][363]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-11.38.51:986][230]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-11.38.57:025][418]LogSlate: Window 'Color Picker' being destroyed
+[2019.07.27-11.39.03:309][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-11.39.14:801][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-11.39.41:379][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-11.40.02:319][442]LogTemp: Repeating last play command: Simulate
+[2019.07.27-11.40.02:357][442]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.40.02:358][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-11.40.02:359][442]PIE: New page: SIE session: Level_Chapter01 (Jul 27, 2019, 10:40:02 PM)
+[2019.07.27-11.40.02:359][442]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-11.40.02:600][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.241804s)
+[2019.07.27-11.40.02:602][442]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-11.40.02:603][442]LogPlayLevel: PIE: World Init took: (0.002144s)
+[2019.07.27-11.40.02:603][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.244479s)
+[2019.07.27-11.40.02:653][442]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-11.40.02:690][442]LogInit: FAudioDevice initialized.
+[2019.07.27-11.40.02:731][442]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-11.40.02:744][442]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-17.10.02
+[2019.07.27-11.40.02:744][442]LogWorld: Bringing up level for play took: 0.012791
+[2019.07.27-11.40.02:760][442]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 -0.335
+[2019.07.27-11.40.02:783][442]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.40.17:637][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.40.17:637][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-11.40.17:713][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-11.40.17:714][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-11.40.17:766][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-11.40.17:977][931]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.07.27-11.40.26:170][213]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-11.40.27:992][282]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-11.40.28:014][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter01" FILE="../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.27-11.40.31:191][282]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter010F6D18EF435A844C7CB7628F7E2439DF.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap'
+[2019.07.27-11.41.06:389][282]LogFileHelpers: Saving map 'Level_Chapter01' took 38.376
+[2019.07.27-11.41.06:450][284]LogHttp: Warning: 0000019928CF2340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-11.41.06:450][284]LogHttp: Warning: 0000019928CF2340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-11.41.06:450][284]LogHttp: Warning: 0000019928CF2340: libcurl info message cache 1 (Closing connection 72)
+[2019.07.27-11.41.06:776][285]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-11.41.54:772][427]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (48.337 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.27-11.43.16:957][667]LogHttp: Warning: 0000019914427B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-11.43.16:957][667]LogHttp: Warning: 0000019914427B00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-11.43.16:957][667]LogHttp: Warning: 0000019914427B00: libcurl info message cache 1 (Closing connection 73)
+[2019.07.27-11.43.16:957][667]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-11.43.28:594][782]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-11.43.35:549][ 64]MapCheck: New page: Map Check
+[2019.07.27-11.43.35:671][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-11.43.35:759][ 64]LightingResults: New page: Lighting Build - Jul 27, 2019, 10:43:35 PM
+[2019.07.27-11.43.35:807][ 64]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent was too big and it was automatically reduced. Consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.07.27-11.43.35:807][ 64]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.07.27-11.43.36:145][ 64]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.07.27-11.43.36:146][ 64]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.07.27-11.43.36:147][ 64]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.07.27-11.43.37:451][ 64]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.07.27-11.43.38:158][ 64]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.07.27-11.43.38:248][ 64]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.07.27-11.43.40:962][ 64]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2019.07.27-11.43.41:069][ 64]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:line 2811
+[2019.07.27-11.43.48:074][ 64]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2019.07.27-11.43.48:074][ 64]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:line 2811
+[2019.07.27-11.43.53:605][ 64]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.07.27-11.43.53:605][ 64]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9180
+[2019.07.27-11.43.54:217][ 64]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.07.27-11.44.23:647][ 64]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.07.27-11.44.23:647][ 64]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.07.27-11.44.23:647][ 64]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.07.27-11.44.23:647][ 64]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.07.27-11.44.23:647][ 64]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.07.27-11.44.30:469][ 64]LogEditorBuildUtils: Build time 0:54
+[2019.07.27-11.44.30:501][ 64]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Grass_Inst, compiling. 
+[2019.07.27-11.44.32:660][ 64]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.07.27-11.44.32:660][ 64]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Grass_Inst, compiling. 
+[2019.07.27-11.44.32:685][ 64]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.07.27-11.44.32:685][ 64]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Grass_Inst, compiling. 
+[2019.07.27-11.44.32:711][ 64]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.07.27-11.44.32:753][ 65]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bark, compiling. 
+[2019.07.27-11.44.32:775][ 65]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Bark, compiling. 
+[2019.07.27-11.44.32:812][ 66]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Branch, compiling. 
+[2019.07.27-11.44.32:830][ 66]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Branch, compiling. 
+[2019.07.27-11.44.32:869][ 67]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_TreeFront, compiling. 
+[2019.07.27-11.44.32:892][ 67]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_TreeFront, compiling. 
+[2019.07.27-11.44.32:908][ 67]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_TreeFront, compiling. 
+[2019.07.27-11.44.32:939][ 68]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Rock, compiling. 
+[2019.07.27-11.44.32:963][ 68]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Rock, compiling. 
+[2019.07.27-11.44.33:099][ 69]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.07.27-11.44.33:115][ 69]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_0, compiling. 
+[2019.07.27-11.44.33:282][ 70]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_23, compiling. 
+[2019.07.27-11.44.33:306][ 70]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_23, compiling. 
+[2019.07.27-11.44.33:889][ 86]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Slats, compiling. 
+[2019.07.27-11.44.33:916][ 86]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Slats, compiling. 
+[2019.07.27-11.44.33:949][ 87]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Lampert, compiling. 
+[2019.07.27-11.44.33:969][ 87]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Lampert, compiling. 
+[2019.07.27-11.44.33:996][ 88]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Window, compiling. 
+[2019.07.27-11.44.34:021][ 88]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Window, compiling. 
+[2019.07.27-11.44.34:055][ 89]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Beam, compiling. 
+[2019.07.27-11.44.34:076][ 89]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Beam, compiling. 
+[2019.07.27-11.44.34:131][ 90]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.07.27-11.44.34:154][ 90]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer WorldGridMaterial, compiling. Is special engine material.
+[2019.07.27-11.44.34:186][ 91]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tiles, compiling. 
+[2019.07.27-11.44.34:206][ 91]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Tiles, compiling. 
+[2019.07.27-11.44.34:241][ 92]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chimney, compiling. 
+[2019.07.27-11.44.34:263][ 92]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Chimney, compiling. 
+[2019.07.27-11.44.34:292][ 93]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Door, compiling. 
+[2019.07.27-11.44.34:310][ 93]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Door, compiling. 
+[2019.07.27-11.44.34:340][ 94]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_BurnedWood, compiling. 
+[2019.07.27-11.44.34:368][ 94]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_BurnedWood, compiling. 
+[2019.07.27-11.45.27:913][ 96]LogShaderCompilers: Display: Shaders left to compile 62
+[2019.07.27-11.45.27:914][ 96]LogShaderCompilers: Display: Shaders left to compile 52
+[2019.07.27-11.45.27:914][ 96]LogShaderCompilers: Display: Shaders left to compile 42
+[2019.07.27-11.45.27:914][ 96]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.07.27-11.45.27:914][ 96]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.07.27-11.45.27:914][ 96]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.07.27-11.45.27:915][ 96]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.07.27-11.45.28:488][ 98]LogHttp: Warning: 0000019914F35E40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-11.45.28:488][ 98]LogHttp: Warning: 0000019914F35E40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-11.45.28:488][ 98]LogHttp: Warning: 0000019914F35E40: libcurl info message cache 1 (Closing connection 74)
+[2019.07.27-11.45.28:522][ 99]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-11.46.13:497][160]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (45.574 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.27-11.47.54:700][698]LogHttp: Warning: 000001990F929580: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-11.47.54:700][698]LogHttp: Warning: 000001990F929580: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-11.47.54:700][698]LogHttp: Warning: 000001990F929580: libcurl info message cache 1 (Closing connection 75)
+[2019.07.27-11.47.54:726][699]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-11.49.54:773][723]LogHttp: Warning: 000001990F928540: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-11.49.54:773][723]LogHttp: Warning: 000001990F928540: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-11.49.54:773][723]LogHttp: Warning: 000001990F928540: libcurl info message cache 1 (Closing connection 76)
+[2019.07.27-11.49.54:773][723]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-11.51.54:822][742]LogHttp: Warning: 000001990F929D00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-11.51.54:822][742]LogHttp: Warning: 000001990F929D00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-11.51.54:822][742]LogHttp: Warning: 000001990F929D00: libcurl info message cache 1 (Closing connection 77)
+[2019.07.27-11.51.54:845][743]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-11.53.54:903][768]LogHttp: Warning: 000001990F92AD40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-11.53.54:903][768]LogHttp: Warning: 000001990F92AD40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-11.53.54:903][768]LogHttp: Warning: 000001990F92AD40: libcurl info message cache 1 (Closing connection 78)
+[2019.07.27-11.53.54:931][769]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-11.55.54:971][796]LogHttp: Warning: 000001990F92A200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-11.55.54:971][796]LogHttp: Warning: 000001990F92A200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-11.55.54:971][796]LogHttp: Warning: 000001990F92A200: libcurl info message cache 1 (Closing connection 79)
+[2019.07.27-11.55.54:993][797]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-11.57.55:037][570]LogHttp: Warning: 000001990F929BC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-11.57.55:037][570]LogHttp: Warning: 000001990F929BC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-11.57.55:037][570]LogHttp: Warning: 000001990F929BC0: libcurl info message cache 1 (Closing connection 80)
+[2019.07.27-11.57.55:056][571]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.00.00:135][362]LogHttp: Warning: 000001990F92A340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.00.00:135][362]LogHttp: Warning: 000001990F92A340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.00.00:135][362]LogHttp: Warning: 000001990F92A340: libcurl info message cache 1 (Closing connection 81)
+[2019.07.27-12.00.00:434][363]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.02.00:465][797]LogHttp: Warning: 000001990F92A340: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.02.00:465][797]LogHttp: Warning: 000001990F92A340: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.02.00:465][797]LogHttp: Warning: 000001990F92A340: libcurl info message cache 1 (Closing connection 82)
+[2019.07.27-12.02.00:465][797]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.02.02:665][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-12.02.02:838][895]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2019.07.27-12.02.03:730][895]Job has failed! Job is closed while Tasks are still PENDING
+[2019.07.27-12.02.03:731][895]DumpUnbuiltLightIteractions
+[2019.07.27-12.02.03:731][895]Lights with unbuilt interactions: 3
+[2019.07.27-12.02.03:731][895]    Light LightSource
+[2019.07.27-12.02.03:731][895]    Light SpotLight_1
+[2019.07.27-12.02.03:731][895]    Light PointLight_1
+[2019.07.27-12.02.03:731][895]
+[2019.07.27-12.02.03:731][895]Primitives with unbuilt interactions: 36
+[2019.07.27-12.02.03:731][895]    Primitive FoliageInstancedStaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_1
+[2019.07.27-12.02.03:731][895]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_9
+[2019.07.27-12.02.03:731][895]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_8
+[2019.07.27-12.02.03:731][895]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_7
+[2019.07.27-12.02.03:731][895]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_6
+[2019.07.27-12.02.03:731][895]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_5
+[2019.07.27-12.02.03:731][895]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_4
+[2019.07.27-12.02.03:731][895]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_3
+[2019.07.27-12.02.03:731][895]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_2
+[2019.07.27-12.02.03:731][895]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_15
+[2019.07.27-12.02.03:731][895]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_14
+[2019.07.27-12.02.03:731][895]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_13
+[2019.07.27-12.02.03:731][895]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_12
+[2019.07.27-12.02.03:731][895]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_11
+[2019.07.27-12.02.03:731][895]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_10
+[2019.07.27-12.02.03:731][895]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_1
+[2019.07.27-12.02.03:732][895]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_0
+[2019.07.27-12.02.03:732][895]    Primitive FoliageInstancedStaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_2
+[2019.07.27-12.02.03:732][895]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock_5.StaticMeshComponent0
+[2019.07.27-12.02.03:732][895]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock8.StaticMeshComponent0
+[2019.07.27-12.02.03:732][895]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock7.StaticMeshComponent0
+[2019.07.27-12.02.03:732][895]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock6_15.StaticMeshComponent0
+[2019.07.27-12.02.03:732][895]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock5.StaticMeshComponent0
+[2019.07.27-12.02.03:732][895]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock4.StaticMeshComponent0
+[2019.07.27-12.02.03:732][895]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock3.StaticMeshComponent0
+[2019.07.27-12.02.03:732][895]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock2.StaticMeshComponent0
+[2019.07.27-12.02.03:732][895]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock18.StaticMeshComponent0
+[2019.07.27-12.02.03:732][895]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock17.StaticMeshComponent0
+[2019.07.27-12.02.03:732][895]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock16.StaticMeshComponent0
+[2019.07.27-12.02.03:732][895]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock15.StaticMeshComponent0
+[2019.07.27-12.02.03:732][895]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock14.StaticMeshComponent0
+[2019.07.27-12.02.03:732][895]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock13.StaticMeshComponent0
+[2019.07.27-12.02.03:732][895]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock12.StaticMeshComponent0
+[2019.07.27-12.02.03:732][895]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock11.StaticMeshComponent0
+[2019.07.27-12.02.03:732][895]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock10.StaticMeshComponent0
+[2019.07.27-12.02.03:732][895]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Cabin_2.StaticMeshComponent0
+[2019.07.27-12.02.04:100][896]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.07.27-12.02.04:100][896]MapCheck: New page: Level_Chapter01 - Jul 27, 2019, 11:02:04 PM
+[2019.07.27-12.02.04:173][896]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.07.27-12.02.04:230][896]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 129.467ms to complete.
+[2019.07.27-12.02.07:370][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-12.02.07:481][ 23]LogSlate: Window 'Message Log' being destroyed
+[2019.07.27-12.02.07:516][ 23]LogSlate: Window 'Message Log' being destroyed
+[2019.07.27-12.02.12:721][236]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-12.02.17:429][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-12.02.22:975][627]MapCheck: New page: Map Check
+[2019.07.27-12.02.23:002][627]LightingResults: New page: Lighting Build - Jul 27, 2019, 11:02:23 PM
+[2019.07.27-12.02.23:023][627]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent was too big and it was automatically reduced. Consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.07.27-12.02.23:023][627]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.07.27-12.02.23:313][627]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.07.27-12.02.23:313][627]LightingResults: Warning: InstancedFoliageActor_0 Instanced meshes don't yet support unique static lighting for each LOD. Lighting on LOD 1+ may be incorrect unless lightmap UVs are the same for all LODs.
+[2019.07.27-12.02.23:314][627]LightingResults: Warning: InstancedFoliageActor_0 The total lightmap size for this InstancedStaticMeshComponent is large, consider reducing the component's lightmap resolution or number of mesh instances in this component
+[2019.07.27-12.02.23:364][627]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.07.27-12.02.23:368][627]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.07.27-12.02.23:368][627]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.07.27-12.02.23:369][627]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.07.27-12.02.23:369][627]LogSwarmInterface: [TryOpenConnection] Local Process ID is 9180
+[2019.07.27-12.02.23:400][627]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.07.27-12.02.47:506][627]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.07.27-12.02.47:506][627]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.07.27-12.02.47:506][627]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.07.27-12.02.47:506][627]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.07.27-12.02.47:506][627]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.07.27-12.02.50:598][627]LogEditorBuildUtils: Build time 0:27
+[2019.07.27-12.04.05:144][629]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.27-12.04.05:273][629]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Chapter01' took 0.035
+[2019.07.27-12.04.05:486][631]LogHttp: Warning: 0000019911CF5A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.04.05:486][631]LogHttp: Warning: 0000019911CF5A80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.04.05:486][631]LogHttp: Warning: 0000019911CF5A80: libcurl info message cache 1 (Closing connection 83)
+[2019.07.27-12.04.05:486][631]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.04.54:727][916]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (49.583 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.27-12.06.54:697][192]LogHttp: Warning: 0000019888AD65C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.06.54:697][192]LogHttp: Warning: 0000019888AD65C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.06.54:697][192]LogHttp: Warning: 0000019888AD65C0: libcurl info message cache 1 (Closing connection 84)
+[2019.07.27-12.06.54:720][193]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.08.54:804][307]LogHttp: Warning: 0000019888AD60C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.08.54:804][307]LogHttp: Warning: 0000019888AD60C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.08.54:804][307]LogHttp: Warning: 0000019888AD60C0: libcurl info message cache 1 (Closing connection 85)
+[2019.07.27-12.08.54:804][307]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.11.01:857][637]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.066 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.27-12.11.13:691][638]LogHttp: Warning: 0000019888AD60C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.11.13:691][638]LogHttp: Warning: 0000019888AD60C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.11.13:691][638]LogHttp: Warning: 0000019888AD60C0: libcurl info message cache 1 (Closing connection 86)
+[2019.07.27-12.11.23:193][639]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.11.35:062][640]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-12.13.35:003][992]LogHttp: Warning: 0000019888AD79C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.13.35:003][992]LogHttp: Warning: 0000019888AD79C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.13.35:003][992]LogHttp: Warning: 0000019888AD79C0: libcurl info message cache 1 (Closing connection 87)
+[2019.07.27-12.13.54:003][993]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.14.50:999][995]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Chapter01' took 10.186
+[2019.07.27-12.15.46:811][997]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.07.27-12.15.58:806][998]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (42.860 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.27-12.15.59:245][999]LogHttp: Warning: 000001991F81D440: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.15.59:245][999]LogHttp: Warning: 000001991F81D440: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.15.59:245][999]LogHttp: Warning: 000001991F81D440: libcurl info message cache 1 (Closing connection 88)
+[2019.07.27-12.15.59:245][999]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.17.39:648][227]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-12.18.18:816][285]LogHttp: Warning: 0000019914425BC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.18.18:816][285]LogHttp: Warning: 0000019914425BC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.18.18:816][285]LogHttp: Warning: 0000019914425BC0: libcurl info message cache 1 (Closing connection 89)
+[2019.07.27-12.18.18:816][285]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.20.36:568][297]LogHttp: Warning: 0000019914426200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.20.36:569][297]LogHttp: Warning: 0000019914426200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.20.36:569][297]LogHttp: Warning: 0000019914426200: libcurl info message cache 1 (Closing connection 90)
+[2019.07.27-12.20.36:569][297]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.20.55:572][299]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (48.685 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.27-12.22.54:436][419]LogHttp: Warning: 0000019914425F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.22.54:438][419]LogHttp: Warning: 0000019914425F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.22.54:439][419]LogHttp: Warning: 0000019914425F80: libcurl info message cache 1 (Closing connection 91)
+[2019.07.27-12.22.54:439][419]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.22.54:810][419]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (51.545 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.27-12.24.55:001][772]LogHttp: Warning: 00000198EB911080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.24.55:002][772]LogHttp: Warning: 00000198EB911080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.24.55:002][772]LogHttp: Warning: 00000198EB911080: libcurl info message cache 1 (Closing connection 92)
+[2019.07.27-12.24.55:351][773]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.25.16:220][834]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Chapter01' took 0.034
+[2019.07.27-12.26.56:013][132]LogHttp: Warning: 00000198EB910900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.26.56:013][132]LogHttp: Warning: 00000198EB910900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.26.56:013][132]LogHttp: Warning: 00000198EB910900: libcurl info message cache 1 (Closing connection 93)
+[2019.07.27-12.26.56:349][133]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.28.56:791][491]LogHttp: Warning: 00000198EB910900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.28.56:791][491]LogHttp: Warning: 00000198EB910900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.28.56:791][491]LogHttp: Warning: 00000198EB910900: libcurl info message cache 1 (Closing connection 94)
+[2019.07.27-12.28.56:791][491]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.30.57:131][849]LogHttp: Warning: 00000198EB910900: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.30.57:132][849]LogHttp: Warning: 00000198EB910900: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.30.57:132][849]LogHttp: Warning: 00000198EB910900: libcurl info message cache 1 (Closing connection 95)
+[2019.07.27-12.30.57:132][849]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.32.57:683][207]LogHttp: Warning: 0000019914426AC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.32.57:684][207]LogHttp: Warning: 0000019914426AC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.32.57:686][207]LogHttp: Warning: 0000019914426AC0: libcurl info message cache 1 (Closing connection 96)
+[2019.07.27-12.32.57:686][207]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.34.58:059][561]LogHttp: Warning: 00000198EB911080: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.34.58:059][561]LogHttp: Warning: 00000198EB911080: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.34.58:059][561]LogHttp: Warning: 00000198EB911080: libcurl info message cache 1 (Closing connection 97)
+[2019.07.27-12.34.58:059][561]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.35.17:039][616]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Chapter01' took 0.046
+[2019.07.27-12.36.58:632][908]LogHttp: Warning: 0000019914427100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.36.58:633][908]LogHttp: Warning: 0000019914427100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.36.58:633][908]LogHttp: Warning: 0000019914427100: libcurl info message cache 1 (Closing connection 98)
+[2019.07.27-12.36.58:942][909]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.38.59:535][264]LogHttp: Warning: 0000019914427100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.38.59:535][264]LogHttp: Warning: 0000019914427100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.38.59:536][264]LogHttp: Warning: 0000019914427100: libcurl info message cache 1 (Closing connection 99)
+[2019.07.27-12.38.59:868][265]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.41.00:401][624]LogHttp: Warning: 0000019914427100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.41.00:401][624]LogHttp: Warning: 0000019914427100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.41.00:401][624]LogHttp: Warning: 0000019914427100: libcurl info message cache 1 (Closing connection 100)
+[2019.07.27-12.41.00:736][625]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.43.01:274][984]LogHttp: Warning: 0000019914427100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.43.01:274][984]LogHttp: Warning: 0000019914427100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.43.01:274][984]LogHttp: Warning: 0000019914427100: libcurl info message cache 1 (Closing connection 101)
+[2019.07.27-12.43.01:610][985]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.45.01:961][343]LogHttp: Warning: 0000019914427100: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.45.01:961][343]LogHttp: Warning: 0000019914427100: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.45.01:961][343]LogHttp: Warning: 0000019914427100: libcurl info message cache 1 (Closing connection 102)
+[2019.07.27-12.45.01:961][343]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.45.17:490][388]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Chapter01' took 0.034
+[2019.07.27-12.47.02:028][268]LogHttp: Warning: 000001991BEA0A40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.47.02:028][268]LogHttp: Warning: 000001991BEA0A40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.47.02:028][268]LogHttp: Warning: 000001991BEA0A40: libcurl info message cache 1 (Closing connection 103)
+[2019.07.27-12.47.02:065][269]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.49.02:137][504]LogHttp: Warning: 000001991BEA1940: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.49.02:138][504]LogHttp: Warning: 000001991BEA1940: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.49.02:138][504]LogHttp: Warning: 000001991BEA1940: libcurl info message cache 1 (Closing connection 104)
+[2019.07.27-12.49.02:174][505]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.51.02:225][738]LogHttp: Warning: 000001991BEA2840: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.51.02:225][738]LogHttp: Warning: 000001991BEA2840: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.51.02:225][738]LogHttp: Warning: 000001991BEA2840: libcurl info message cache 1 (Closing connection 105)
+[2019.07.27-12.51.02:263][739]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.53.02:324][971]LogHttp: Warning: 000001991BEA1940: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.53.02:324][971]LogHttp: Warning: 000001991BEA1940: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.53.02:324][971]LogHttp: Warning: 000001991BEA1940: libcurl info message cache 1 (Closing connection 106)
+[2019.07.27-12.53.02:324][971]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.55.02:375][202]LogHttp: Warning: 00000198EB911440: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.55.02:375][202]LogHttp: Warning: 00000198EB911440: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.55.02:375][202]LogHttp: Warning: 00000198EB911440: libcurl info message cache 1 (Closing connection 107)
+[2019.07.27-12.55.02:412][203]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.55.17:914][611]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Chapter01' took 0.028
+[2019.07.27-12.57.02:457][425]LogHttp: Warning: 0000019914424E00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.57.02:457][425]LogHttp: Warning: 0000019914424E00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.57.02:457][425]LogHttp: Warning: 0000019914424E00: libcurl info message cache 1 (Closing connection 108)
+[2019.07.27-12.57.02:457][425]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-12.59.02:529][656]LogHttp: Warning: 00000199144265C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-12.59.02:529][656]LogHttp: Warning: 00000199144265C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-12.59.02:529][656]LogHttp: Warning: 00000199144265C0: libcurl info message cache 1 (Closing connection 109)
+[2019.07.27-12.59.02:566][657]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-13.01.02:608][887]LogHttp: Warning: 0000019914426E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-13.01.02:608][887]LogHttp: Warning: 0000019914426E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-13.01.02:608][887]LogHttp: Warning: 0000019914426E80: libcurl info message cache 1 (Closing connection 110)
+[2019.07.27-13.01.02:608][887]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-13.02.06:599][607]LogStaticLightingSystem: Warning: Failed to build lighting!!! Lighting build canceled.
+[2019.07.27-13.02.07:497][607]Job has failed! Job is closed while Tasks are still PENDING
+[2019.07.27-13.02.07:498][607]DumpUnbuiltLightIteractions
+[2019.07.27-13.02.07:498][607]Lights with unbuilt interactions: 3
+[2019.07.27-13.02.07:498][607]    Light SpotLight_1
+[2019.07.27-13.02.07:498][607]    Light LightSource
+[2019.07.27-13.02.07:498][607]    Light PointLight_1
+[2019.07.27-13.02.07:498][607]
+[2019.07.27-13.02.07:498][607]Primitives with unbuilt interactions: 36
+[2019.07.27-13.02.07:498][607]    Primitive FoliageInstancedStaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_1
+[2019.07.27-13.02.07:498][607]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_9
+[2019.07.27-13.02.07:498][607]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_6
+[2019.07.27-13.02.07:498][607]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_5
+[2019.07.27-13.02.07:498][607]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_10
+[2019.07.27-13.02.07:498][607]    Primitive FoliageInstancedStaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_2
+[2019.07.27-13.02.07:498][607]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock_5.StaticMeshComponent0
+[2019.07.27-13.02.07:498][607]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock8.StaticMeshComponent0
+[2019.07.27-13.02.07:498][607]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock7.StaticMeshComponent0
+[2019.07.27-13.02.07:498][607]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock6_15.StaticMeshComponent0
+[2019.07.27-13.02.07:498][607]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock5.StaticMeshComponent0
+[2019.07.27-13.02.07:498][607]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock4.StaticMeshComponent0
+[2019.07.27-13.02.07:498][607]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock3.StaticMeshComponent0
+[2019.07.27-13.02.07:498][607]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock2.StaticMeshComponent0
+[2019.07.27-13.02.07:499][607]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock18.StaticMeshComponent0
+[2019.07.27-13.02.07:499][607]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock17.StaticMeshComponent0
+[2019.07.27-13.02.07:499][607]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock16.StaticMeshComponent0
+[2019.07.27-13.02.07:499][607]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock15.StaticMeshComponent0
+[2019.07.27-13.02.07:499][607]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock14.StaticMeshComponent0
+[2019.07.27-13.02.07:499][607]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock13.StaticMeshComponent0
+[2019.07.27-13.02.07:499][607]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock12.StaticMeshComponent0
+[2019.07.27-13.02.07:499][607]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock11.StaticMeshComponent0
+[2019.07.27-13.02.07:499][607]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Rock10.StaticMeshComponent0
+[2019.07.27-13.02.07:499][607]    Primitive StaticMeshComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Cabin_2.StaticMeshComponent0
+[2019.07.27-13.02.07:499][607]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_8
+[2019.07.27-13.02.07:499][607]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_7
+[2019.07.27-13.02.07:499][607]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_4
+[2019.07.27-13.02.07:499][607]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_3
+[2019.07.27-13.02.07:499][607]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_2
+[2019.07.27-13.02.07:499][607]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_15
+[2019.07.27-13.02.07:499][607]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_14
+[2019.07.27-13.02.07:499][607]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_13
+[2019.07.27-13.02.07:499][607]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_12
+[2019.07.27-13.02.07:499][607]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_11
+[2019.07.27-13.02.07:499][607]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_1
+[2019.07.27-13.02.07:499][607]    Primitive LandscapeComponent /Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Landscape_2.LandscapeComponent_0
+[2019.07.27-13.02.08:015][608]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.07.27-13.02.08:019][608]MapCheck: New page: Level_Chapter01 - Jul 28, 2019, 12:02:08 AM
+[2019.07.27-13.02.08:020][608]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.07.27-13.02.08:023][608]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 5.268ms to complete.
+[2019.07.27-13.02.20:732][927]LogSlate: Window 'Message Log' being destroyed
+[2019.07.27-13.02.20:779][927]LogSlate: Window 'Message Log' being destroyed
+[2019.07.27-13.02.22:169][965]LogTemp: Repeating last play command: Simulate
+[2019.07.27-13.02.22:840][965]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-13.02.22:840][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-13.02.22:841][965]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 12:02:22 AM)
+[2019.07.27-13.02.22:841][965]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-13.02.23:015][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.174109s)
+[2019.07.27-13.02.23:018][965]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-13.02.23:019][965]LogPlayLevel: PIE: World Init took: (0.003333s)
+[2019.07.27-13.02.23:019][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.178334s)
+[2019.07.27-13.02.23:063][965]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-13.02.23:233][965]LogInit: FAudioDevice initialized.
+[2019.07.27-13.02.23:272][965]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-13.02.23:286][965]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-18.32.23
+[2019.07.27-13.02.23:287][965]LogWorld: Bringing up level for play took: 0.013674
+[2019.07.27-13.02.23:304][965]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.208
+[2019.07.27-13.02.23:327][965]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-13.03.02:673][501]LogHttp: Warning: 000001991F81C180: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-13.03.02:673][501]LogHttp: Warning: 000001991F81C180: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-13.03.02:673][501]LogHttp: Warning: 000001991F81C180: libcurl info message cache 1 (Closing connection 111)
+[2019.07.27-13.03.02:673][501]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-13.04.33:642][378]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-13.04.33:643][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-13.04.33:713][378]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-13.04.33:713][378]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-13.04.33:743][378]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-13.04.33:825][379]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2019.07.27-13.04.56:436][142]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-13.05.03:103][168]LogHttp: Warning: 0000019928CF2200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-13.05.03:103][168]LogHttp: Warning: 0000019928CF2200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-13.05.03:103][168]LogHttp: Warning: 0000019928CF2200: libcurl info message cache 1 (Closing connection 112)
+[2019.07.27-13.05.03:440][169]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-13.06.47:698][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-13.06.50:550][940]LogEditorActor: Deleted Actor: AtmosphericFog
+[2019.07.27-13.06.50:579][940]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2019.07.27-13.07.03:917][144]LogHttp: Warning: 000001991BEA2E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-13.07.03:917][144]LogHttp: Warning: 000001991BEA2E80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-13.07.03:917][144]LogHttp: Warning: 000001991BEA2E80: libcurl info message cache 1 (Closing connection 113)
+[2019.07.27-13.07.04:250][145]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-13.07.33:060][224]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter01_Auto8CAC91D6A42223BD4E094F2A2A6DD5B56.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Autosaves/Game/Maps/Level_Chapter01_Auto8.umap'
+[2019.07.27-13.07.33:068][224]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Chapter01' took 1.989
+[2019.07.27-13.07.33:068][224]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.989
+[2019.07.27-13.09.04:592][499]LogHttp: Warning: 0000019914426AC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-13.09.04:592][499]LogHttp: Warning: 0000019914426AC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-13.09.04:592][499]LogHttp: Warning: 0000019914426AC0: libcurl info message cache 1 (Closing connection 114)
+[2019.07.27-13.09.04:592][499]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-13.09.32:015][580]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-13.10.00:309][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-13.10.11:292][793]LogSlate: Window 'Color Picker' being destroyed
+[2019.07.27-13.10.39:058][660]LogTemp: Repeating last play command: Simulate
+[2019.07.27-13.10.39:080][660]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-13.10.39:080][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-13.10.39:081][660]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 12:10:39 AM)
+[2019.07.27-13.10.39:081][660]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-13.10.39:230][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.148881s)
+[2019.07.27-13.10.39:232][660]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-13.10.39:232][660]LogPlayLevel: PIE: World Init took: (0.002010s)
+[2019.07.27-13.10.39:233][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.151174s)
+[2019.07.27-13.10.39:271][660]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-13.10.39:294][660]LogInit: FAudioDevice initialized.
+[2019.07.27-13.10.39:329][660]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-13.10.39:336][660]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-18.40.39
+[2019.07.27-13.10.39:337][660]LogWorld: Bringing up level for play took: 0.007219
+[2019.07.27-13.10.39:351][660]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.255
+[2019.07.27-13.10.39:363][660]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-13.11.04:647][655]LogHttp: Warning: 000001991C160B80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-13.11.04:647][655]LogHttp: Warning: 000001991C160B80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-13.11.04:647][655]LogHttp: Warning: 000001991C160B80: libcurl info message cache 1 (Closing connection 115)
+[2019.07.27-13.11.04:647][655]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-13.11.32:332][645]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-13.11.32:332][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-13.11.32:399][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-13.11.32:399][645]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-13.11.32:434][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-13.11.32:494][646]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2019.07.27-13.11.35:949][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-13.11.53:243][290]LogTemp: Repeating last play command: Simulate
+[2019.07.27-13.11.53:266][290]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-13.11.53:266][290]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-13.11.53:266][290]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 12:11:53 AM)
+[2019.07.27-13.11.53:266][290]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-13.11.53:418][290]LogPlayLevel: PIE: StaticDuplicateObject took: (0.151485s)
+[2019.07.27-13.11.53:419][290]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-13.11.53:419][290]LogPlayLevel: PIE: World Init took: (0.001218s)
+[2019.07.27-13.11.53:419][290]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.152981s)
+[2019.07.27-13.11.53:466][290]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-13.11.53:488][290]LogInit: FAudioDevice initialized.
+[2019.07.27-13.11.53:522][290]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-13.11.53:529][290]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-18.41.53
+[2019.07.27-13.11.53:530][290]LogWorld: Bringing up level for play took: 0.007016
+[2019.07.27-13.11.53:542][290]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.447
+[2019.07.27-13.11.53:552][290]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-13.12.13:955][  6]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-13.12.13:955][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-13.12.14:020][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-13.12.14:020][  6]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-13.12.14:046][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-13.12.14:105][  7]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2019.07.27-13.12.21:817][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-13.12.33:224][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter01" FILE="../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.27-13.12.34:933][615]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter01995895814EF17CCF48BB3DBDBAEC7F0E.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap'
+[2019.07.27-13.12.34:974][615]LogFileHelpers: Saving map 'Level_Chapter01' took 1.750
+[2019.07.27-13.12.34:983][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter01_BuiltData" FILE="../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01_BuiltData.uasset" SILENT=true
+[2019.07.27-13.12.35:010][615]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter01_BuiltData74084EB04CD3A5A103198EBF04BF45A4.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01_BuiltData.uasset'
