@@ -3353,3 +3353,21 @@ Exception rethrown at [0]:
 [2019.07.27-13.12.34:974][615]LogFileHelpers: Saving map 'Level_Chapter01' took 1.750
 [2019.07.27-13.12.34:983][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter01_BuiltData" FILE="../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01_BuiltData.uasset" SILENT=true
 [2019.07.27-13.12.35:010][615]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter01_BuiltData74084EB04CD3A5A103198EBF04BF45A4.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01_BuiltData.uasset'
+[2019.07.27-13.13.05:305][762]LogHttp: Warning: 000001991BEA0400: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-13.13.05:305][762]LogHttp: Warning: 000001991BEA0400: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-13.13.05:305][762]LogHttp: Warning: 000001991BEA0400: libcurl info message cache 1 (Closing connection 116)
+[2019.07.27-13.13.05:641][763]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-13.14.18:696][231]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-13.14.35:812][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-13.15.05:713][507]LogHttp: Warning: 000001991BEA2700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-13.15.05:713][507]LogHttp: Warning: 000001991BEA2700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-13.15.05:713][507]LogHttp: Warning: 000001991BEA2700: libcurl info message cache 1 (Closing connection 117)
+[2019.07.27-13.15.05:714][507]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-13.17.06:355][480]LogHttp: Warning: 0000019911CF79C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-13.17.06:355][480]LogHttp: Warning: 0000019911CF79C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-13.17.06:355][480]LogHttp: Warning: 0000019911CF79C0: libcurl info message cache 1 (Closing connection 118)
+[2019.07.27-13.17.06:693][481]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-13.19.06:779][ 53]LogHttp: Warning: 000001991C1607C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-13.19.06:779][ 53]LogHttp: Warning: 000001991C1607C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-13.19.06:779][ 53]LogHttp: Warning: 000001991C1607C0: libcurl info message cache 1 (Closing connection 119)
+[2019.07.27-13.19.06:779][ 53]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
