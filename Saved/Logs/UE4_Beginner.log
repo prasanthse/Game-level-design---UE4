@@ -6957,3 +6957,1138 @@ Exception rethrown at [0]:
 [2019.07.27-15.49.23:289][805]LogShaderCompilers: Display: Shaders left to compile 105
 [2019.07.27-15.49.23:289][805]LogSkeletalMesh: Building Skeletal Mesh SK_DeerStag...
 [2019.07.27-15.49.23:372][805]LogSkeletalMesh: Built Skeletal Mesh [0.09s] /Game/AnimalVarietyPack/DeerStagAndDoe/Meshes/SK_DeerStag.SK_DeerStag
+[2019.07.27-15.49.30:341][ 33]LogShaderCompilers: Display: Shaders left to compile 155
+[2019.07.27-15.49.30:886][ 49]LogShaderCompilers: Display: Shaders left to compile 145
+[2019.07.27-15.49.31:435][ 66]LogShaderCompilers: Display: Shaders left to compile 135
+[2019.07.27-15.49.37:945][252]LogShaderCompilers: Display: Shaders left to compile 125
+[2019.07.27-15.49.40:165][320]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.07.27-15.49.46:325][574]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.07.27-15.49.53:213][861]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.07.27-15.49.54:644][900]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (31.099 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.27-15.49.57:201][960]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.07.27-15.49.58:258][994]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.07.27-15.49.58:823][ 12]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.07.27-15.50.06:640][168]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.07.27-15.50.10:658][223]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.07.27-15.50.13:446][258]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.07.27-15.50.22:616][296]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.07.27-15.50.28:180][354]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.07.27-15.50.30:935][393]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.07.27-15.53.24:210][953]Cmd: DELETE
+[2019.07.27-15.53.24:210][953]Cmd: ACTOR DELETE
+[2019.07.27-15.53.24:286][953]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.07.27-15.53.24:317][953]LogEditorActor: Deleted 1 Actors (0.107 secs)
+[2019.07.27-15.53.24:989][976]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ANIM_DeerDoe_Walk)
+[2019.07.27-15.53.25:482][988]Cmd: DELETE
+[2019.07.27-15.53.25:482][988]Cmd: ACTOR DELETE
+[2019.07.27-15.53.25:568][988]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.07.27-15.53.25:607][988]LogEditorActor: Deleted 1 Actors (0.126 secs)
+[2019.07.27-15.53.26:825][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.53.26:935][ 33]LogTemp: Repeating last play command: Simulate
+[2019.07.27-15.53.26:991][ 33]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.53.26:991][ 33]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-15.53.26:991][ 33]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 2:53:26 AM)
+[2019.07.27-15.53.26:992][ 33]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-15.53.27:186][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.193480s)
+[2019.07.27-15.53.27:187][ 33]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-15.53.27:188][ 33]LogPlayLevel: PIE: World Init took: (0.001757s)
+[2019.07.27-15.53.27:188][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.195992s)
+[2019.07.27-15.53.27:234][ 33]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-15.53.27:256][ 33]LogInit: FAudioDevice initialized.
+[2019.07.27-15.53.27:298][ 33]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-15.53.27:320][ 33]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.23.27
+[2019.07.27-15.53.27:321][ 33]LogWorld: Bringing up level for play took: 0.021889
+[2019.07.27-15.53.27:337][ 33]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.241
+[2019.07.27-15.53.27:342][ 33]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.53.45:466][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.53.45:466][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-15.53.45:538][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-15.53.45:538][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.53.45:575][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-15.53.45:637][681]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2019.07.27-15.53.48:332][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.54.01:905][161]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_Rest.ANIM_Wolf_Rest
+[2019.07.27-15.54.01:905][161]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_Rest.ANIM_Wolf_Rest) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.27-15.54.02:038][161]LogSkeletalMesh: Building Skeletal Mesh SK_Wolf...
+[2019.07.27-15.54.02:117][161]LogSkeletalMesh: Built Skeletal Mesh [0.12s] /Game/AnimalVarietyPack/Wolf/Meshes/SK_Wolf.SK_Wolf
+[2019.07.27-15.54.35:775][161]LogTexture: Display: Building textures: T_Wolf_BaseColorAlpha (AutoDXT, 4096X4096)
+[2019.07.27-15.54.35:775][161]LogTexture: Display: Building textures: T_Wolf_OcclusionRoughnessMetallic (AutoDXT, 4096X4096)
+[2019.07.27-15.54.35:775][161]LogTexture: Display: Building textures: T_Wolf_Specular (AutoDXT, 32X32)
+[2019.07.27-15.54.35:775][161]LogTexture: Display: Building textures: T_Wolf_Nml (BC5, 4096X4096)
+[2019.07.27-15.54.35:775][161]LogMaterial: Display: Missing cached shader map for material M_Wolf, compiling. 
+[2019.07.27-15.54.35:843][161]LogMaterial: Display: Missing cached shader map for material M_WolfFur, compiling. 
+[2019.07.27-15.54.36:012][161]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.07.27-15.54.36:012][161]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.07.27-15.54.36:012][161]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.07.27-15.54.40:994][299]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.07.27-15.54.44:296][401]LogShaderCompilers: Display: Shaders left to compile 155
+[2019.07.27-15.54.46:017][454]LogShaderCompilers: Display: Shaders left to compile 145
+[2019.07.27-15.54.49:347][557]LogShaderCompilers: Display: Shaders left to compile 135
+[2019.07.27-15.54.57:480][808]LogShaderCompilers: Display: Shaders left to compile 125
+[2019.07.27-15.54.58:802][849]LogShaderCompilers: Display: Shaders left to compile 115
+[2019.07.27-15.55.03:977][  7]LogShaderCompilers: Display: Shaders left to compile 105
+[2019.07.27-15.55.04:749][ 31]LogShaderCompilers: Display: Shaders left to compile 95
+[2019.07.27-15.55.06:750][ 93]LogShaderCompilers: Display: Shaders left to compile 85
+[2019.07.27-15.55.10:872][220]LogShaderCompilers: Display: Shaders left to compile 75
+[2019.07.27-15.55.15:914][375]LogShaderCompilers: Display: Shaders left to compile 65
+[2019.07.27-15.55.17:955][438]LogShaderCompilers: Display: Shaders left to compile 55
+[2019.07.27-15.55.18:007][440]LogShaderCompilers: Display: Shaders left to compile 45
+[2019.07.27-15.55.24:727][647]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.07.27-15.55.27:917][745]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.07.27-15.55.31:406][852]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.07.27-15.55.31:902][867]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.07.27-15.55.46:032][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.55.46:132][328]LogTemp: Repeating last play command: Simulate
+[2019.07.27-15.55.46:158][328]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.55.46:158][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-15.55.46:158][328]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 2:55:46 AM)
+[2019.07.27-15.55.46:158][328]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-15.55.46:306][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.148174s)
+[2019.07.27-15.55.46:307][328]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-15.55.46:307][328]LogPlayLevel: PIE: World Init took: (0.001172s)
+[2019.07.27-15.55.46:307][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.149646s)
+[2019.07.27-15.55.46:352][328]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-15.55.46:369][328]LogInit: FAudioDevice initialized.
+[2019.07.27-15.55.46:400][328]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-15.55.46:412][328]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.25.46
+[2019.07.27-15.55.46:413][328]LogWorld: Bringing up level for play took: 0.012461
+[2019.07.27-15.55.46:427][328]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 -0.669
+[2019.07.27-15.55.46:456][328]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.56.04:125][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.56.04:230][921]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.56.04:231][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-15.56.04:279][921]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-15.56.04:279][921]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.56.04:315][921]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-15.56.04:338][922]LogPlayLevel: Display: Destroying online subsystem :Context_103
+[2019.07.27-15.56.10:222][ 94]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_GoToRest.ANIM_Wolf_GoToRest
+[2019.07.27-15.56.10:222][ 94]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_GoToRest.ANIM_Wolf_GoToRest) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.27-15.56.15:678][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.56.15:765][245]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_JumpBite.ANIM_Wolf_JumpBite
+[2019.07.27-15.56.15:765][245]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_JumpBite.ANIM_Wolf_JumpBite) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.27-15.56.24:039][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.56.24:105][459]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_RestToGoBackUp.ANIM_Wolf_RestToGoBackUp
+[2019.07.27-15.56.24:105][459]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_RestToGoBackUp.ANIM_Wolf_RestToGoBackUp) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.27-15.56.33:400][728]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.56.33:503][732]LogTemp: Repeating last play command: Simulate
+[2019.07.27-15.56.33:527][732]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.56.33:527][732]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-15.56.33:527][732]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 2:56:33 AM)
+[2019.07.27-15.56.33:527][732]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-15.56.33:655][732]LogPlayLevel: PIE: StaticDuplicateObject took: (0.128404s)
+[2019.07.27-15.56.33:657][732]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-15.56.33:658][732]LogPlayLevel: PIE: World Init took: (0.002919s)
+[2019.07.27-15.56.33:659][732]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.132023s)
+[2019.07.27-15.56.33:700][732]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-15.56.33:718][732]LogInit: FAudioDevice initialized.
+[2019.07.27-15.56.33:754][732]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-15.56.33:771][732]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.26.33
+[2019.07.27-15.56.33:773][732]LogWorld: Bringing up level for play took: 0.017154
+[2019.07.27-15.56.33:850][732]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.07.27-15.56.33:851][732]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.755
+[2019.07.27-15.56.33:892][732]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.56.42:689][  3]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.56.42:795][  6]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.56.42:795][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-15.56.42:844][  6]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-15.56.42:844][  6]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.56.42:882][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-15.56.42:901][  7]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2019.07.27-15.56.44:185][ 45]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ANIM_Wolf_RestToGoBackUp)
+[2019.07.27-15.56.45:271][ 76]Cmd: DELETE
+[2019.07.27-15.56.45:271][ 76]Cmd: ACTOR DELETE
+[2019.07.27-15.56.45:337][ 76]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.07.27-15.56.45:366][ 76]LogEditorActor: Deleted 1 Actors (0.094 secs)
+[2019.07.27-15.56.45:955][ 96]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ANIM_Wolf_JumpBite)
+[2019.07.27-15.56.46:392][107]Cmd: DELETE
+[2019.07.27-15.56.46:393][107]Cmd: ACTOR DELETE
+[2019.07.27-15.56.46:458][107]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.07.27-15.56.46:486][107]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2019.07.27-15.56.46:925][122]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ANIM_Wolf_GoToRest)
+[2019.07.27-15.56.47:401][134]Cmd: DELETE
+[2019.07.27-15.56.47:401][134]Cmd: ACTOR DELETE
+[2019.07.27-15.56.47:460][134]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.07.27-15.56.47:490][134]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2019.07.27-15.56.52:193][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.56.52:245][259]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_Sleep.ANIM_Wolf_Sleep
+[2019.07.27-15.56.52:245][259]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_Sleep.ANIM_Wolf_Sleep) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.27-15.56.56:956][403]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.56.57:060][407]LogTemp: Repeating last play command: Simulate
+[2019.07.27-15.56.57:088][407]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.56.57:088][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-15.56.57:089][407]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 2:56:57 AM)
+[2019.07.27-15.56.57:090][407]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-15.56.57:243][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.153388s)
+[2019.07.27-15.56.57:244][407]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-15.56.57:245][407]LogPlayLevel: PIE: World Init took: (0.001988s)
+[2019.07.27-15.56.57:245][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.155977s)
+[2019.07.27-15.56.57:288][407]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-15.56.57:311][407]LogInit: FAudioDevice initialized.
+[2019.07.27-15.56.57:347][407]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-15.56.57:365][407]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.26.57
+[2019.07.27-15.56.57:366][407]LogWorld: Bringing up level for play took: 0.018150
+[2019.07.27-15.56.57:380][407]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.285
+[2019.07.27-15.56.57:414][407]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.57.08:223][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.57.08:330][744]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.57.08:330][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-15.57.08:382][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-15.57.08:382][744]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.57.08:428][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-15.57.08:450][745]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2019.07.27-15.57.13:966][887]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_Bite.ANIM_Wolf_Bite
+[2019.07.27-15.57.13:966][887]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_Bite.ANIM_Wolf_Bite) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.27-15.57.16:064][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.57.16:188][954]LogTemp: Repeating last play command: Simulate
+[2019.07.27-15.57.16:218][954]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.57.16:219][954]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-15.57.16:219][954]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 2:57:16 AM)
+[2019.07.27-15.57.16:219][954]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-15.57.16:368][954]LogPlayLevel: PIE: StaticDuplicateObject took: (0.149002s)
+[2019.07.27-15.57.16:369][954]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-15.57.16:369][954]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2019.07.27-15.57.16:369][954]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.150631s)
+[2019.07.27-15.57.16:416][954]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-15.57.16:434][954]LogInit: FAudioDevice initialized.
+[2019.07.27-15.57.16:472][954]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-15.57.16:490][954]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.27.16
+[2019.07.27-15.57.16:492][954]LogWorld: Bringing up level for play took: 0.018698
+[2019.07.27-15.57.16:505][954]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 -0.591
+[2019.07.27-15.57.16:533][954]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.57.19:121][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.57.19:121][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-15.57.19:165][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-15.57.19:165][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.57.19:202][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-15.57.19:222][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_106
+[2019.07.27-15.57.20:325][ 64]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ANIM_Wolf_Bite)
+[2019.07.27-15.57.21:498][ 99]Cmd: DELETE
+[2019.07.27-15.57.21:498][ 99]Cmd: ACTOR DELETE
+[2019.07.27-15.57.21:566][ 99]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.07.27-15.57.21:595][ 99]LogEditorActor: Deleted 1 Actors (0.097 secs)
+[2019.07.27-15.57.25:196][190]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.57.25:340][191]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_GetHitFront.ANIM_Wolf_GetHitFront
+[2019.07.27-15.57.25:340][191]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_GetHitFront.ANIM_Wolf_GetHitFront) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.27-15.57.27:150][245]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.57.27:254][249]LogTemp: Repeating last play command: Simulate
+[2019.07.27-15.57.27:273][249]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.57.27:273][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-15.57.27:273][249]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 2:57:27 AM)
+[2019.07.27-15.57.27:273][249]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-15.57.27:401][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.127669s)
+[2019.07.27-15.57.27:402][249]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-15.57.27:403][249]LogPlayLevel: PIE: World Init took: (0.001860s)
+[2019.07.27-15.57.27:403][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.129901s)
+[2019.07.27-15.57.27:443][249]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-15.57.27:460][249]LogInit: FAudioDevice initialized.
+[2019.07.27-15.57.27:498][249]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-15.57.27:510][249]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.27.27
+[2019.07.27-15.57.27:511][249]LogWorld: Bringing up level for play took: 0.012487
+[2019.07.27-15.57.27:525][249]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.429
+[2019.07.27-15.57.27:556][249]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.57.30:095][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.57.30:095][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-15.57.30:140][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-15.57.30:140][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.57.30:183][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-15.57.30:209][329]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2019.07.27-15.57.31:222][360]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ANIM_Wolf_GetHitFront)
+[2019.07.27-15.57.31:491][366]Cmd: DELETE
+[2019.07.27-15.57.31:491][366]Cmd: ACTOR DELETE
+[2019.07.27-15.57.31:560][366]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.07.27-15.57.31:588][366]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2019.07.27-15.57.35:879][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.57.35:934][489]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_Howl.ANIM_Wolf_Howl
+[2019.07.27-15.57.35:934][489]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_Howl.ANIM_Wolf_Howl) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.27-15.57.37:970][550]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.57.38:070][554]LogTemp: Repeating last play command: Simulate
+[2019.07.27-15.57.38:090][554]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.57.38:090][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-15.57.38:090][554]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 2:57:38 AM)
+[2019.07.27-15.57.38:090][554]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-15.57.38:226][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.135907s)
+[2019.07.27-15.57.38:228][554]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-15.57.38:228][554]LogPlayLevel: PIE: World Init took: (0.002014s)
+[2019.07.27-15.57.38:228][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.138310s)
+[2019.07.27-15.57.38:269][554]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-15.57.38:284][554]LogInit: FAudioDevice initialized.
+[2019.07.27-15.57.38:322][554]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-15.57.38:336][554]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.27.38
+[2019.07.27-15.57.38:337][554]LogWorld: Bringing up level for play took: 0.014091
+[2019.07.27-15.57.38:350][554]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 1.255
+[2019.07.27-15.57.38:383][554]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.57.47:961][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.57.48:099][834]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.57.48:104][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-15.57.48:141][834]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-15.57.48:141][834]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.57.48:187][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-15.57.48:208][835]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2019.07.27-15.57.49:078][861]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ANIM_Wolf_Howl)
+[2019.07.27-15.58.12:760][559]Cmd: DELETE
+[2019.07.27-15.58.12:760][559]Cmd: ACTOR DELETE
+[2019.07.27-15.58.12:823][559]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.07.27-15.58.12:854][559]LogEditorActor: Deleted 1 Actors (0.094 secs)
+[2019.07.27-15.58.15:009][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.58.15:186][622]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_IdleAggressive.ANIM_Wolf_IdleAggressive
+[2019.07.27-15.58.15:186][622]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_IdleAggressive.ANIM_Wolf_IdleAggressive) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.27-15.58.17:126][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.58.17:263][685]LogTemp: Repeating last play command: Simulate
+[2019.07.27-15.58.17:282][685]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.58.17:282][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-15.58.17:282][685]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 2:58:17 AM)
+[2019.07.27-15.58.17:282][685]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-15.58.17:424][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.142366s)
+[2019.07.27-15.58.17:426][685]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-15.58.17:426][685]LogPlayLevel: PIE: World Init took: (0.001942s)
+[2019.07.27-15.58.17:426][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.144898s)
+[2019.07.27-15.58.17:468][685]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-15.58.17:493][685]LogInit: FAudioDevice initialized.
+[2019.07.27-15.58.17:525][685]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-15.58.17:540][685]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.28.17
+[2019.07.27-15.58.17:541][685]LogWorld: Bringing up level for play took: 0.015416
+[2019.07.27-15.58.17:554][685]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.459
+[2019.07.27-15.58.17:583][685]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.58.23:435][856]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.58.23:558][860]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.58.23:560][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-15.58.23:608][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-15.58.23:608][860]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.58.23:646][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-15.58.23:671][861]LogPlayLevel: Display: Destroying online subsystem :Context_109
+[2019.07.27-15.58.24:533][887]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ANIM_Wolf_IdleAggressive)
+[2019.07.27-15.58.25:909][928]Cmd: DELETE
+[2019.07.27-15.58.25:909][928]Cmd: ACTOR DELETE
+[2019.07.27-15.58.25:972][928]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.07.27-15.58.25:999][928]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2019.07.27-15.58.29:740][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.58.29:881][ 27]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_IdleBreathe.ANIM_Wolf_IdleBreathe
+[2019.07.27-15.58.29:881][ 27]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimalVarietyPack/Wolf/Animations/ANIM_Wolf_IdleBreathe.ANIM_Wolf_IdleBreathe) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2019.07.27-15.58.31:321][ 70]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.58.31:460][ 76]LogTemp: Repeating last play command: Simulate
+[2019.07.27-15.58.31:481][ 76]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.58.31:482][ 76]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-15.58.31:482][ 76]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 2:58:31 AM)
+[2019.07.27-15.58.31:482][ 76]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-15.58.31:638][ 76]LogPlayLevel: PIE: StaticDuplicateObject took: (0.155401s)
+[2019.07.27-15.58.31:639][ 76]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-15.58.31:639][ 76]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2019.07.27-15.58.31:639][ 76]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.156610s)
+[2019.07.27-15.58.31:679][ 76]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-15.58.31:695][ 76]LogInit: FAudioDevice initialized.
+[2019.07.27-15.58.31:730][ 76]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-15.58.31:743][ 76]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.28.31
+[2019.07.27-15.58.31:744][ 76]LogWorld: Bringing up level for play took: 0.013312
+[2019.07.27-15.58.31:758][ 76]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.662
+[2019.07.27-15.58.31:790][ 76]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.58.46:405][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-15.58.46:510][551]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.58.46:511][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-15.58.46:562][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-15.58.46:562][551]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-15.58.46:602][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-15.58.46:673][552]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2019.07.27-15.58.49:149][631]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ANIM_Wolf_Sleep)
+[2019.07.27-15.59.15:143][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Crate1)
+[2019.07.27-15.59.31:958][243]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ANIM_Wolf_Sleep)
+[2019.07.27-15.59.52:430][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.00.19:674][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.00.19:792][282]LogTemp: Repeating last play command: Simulate
+[2019.07.27-16.00.19:813][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.00.19:813][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-16.00.19:813][282]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 3:00:19 AM)
+[2019.07.27-16.00.19:814][282]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-16.00.19:940][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.126317s)
+[2019.07.27-16.00.19:944][282]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-16.00.19:945][282]LogPlayLevel: PIE: World Init took: (0.003677s)
+[2019.07.27-16.00.19:945][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.130926s)
+[2019.07.27-16.00.19:990][282]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-16.00.20:006][282]LogInit: FAudioDevice initialized.
+[2019.07.27-16.00.20:042][282]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-16.00.20:057][282]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.30.20
+[2019.07.27-16.00.20:058][282]LogWorld: Bringing up level for play took: 0.015933
+[2019.07.27-16.00.20:073][282]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.977
+[2019.07.27-16.00.20:103][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.00.23:070][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Crate1)
+[2019.07.27-16.00.24:840][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.00.37:046][915]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.00.37:046][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.00.37:116][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-16.00.37:116][915]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.00.37:155][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.00.37:202][916]LogPlayLevel: Display: Destroying online subsystem :Context_111
+[2019.07.27-16.00.38:173][956]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ANIM_Wolf_Sleep)
+[2019.07.27-16.00.42:687][127]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-16.01.14:516][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-16.01.17:848][190]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter01_Auto22C4A5EAD4982C9E57404638A4A97D660.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Autosaves/Game/Maps/Level_Chapter01_Auto2.umap'
+[2019.07.27-16.01.17:855][190]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Level_Chapter01' took 3.292
+[2019.07.27-16.01.17:855][190]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.292
+[2019.07.27-16.02.22:682][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.02.22:779][434]LogTemp: Repeating last play command: Simulate
+[2019.07.27-16.02.22:803][434]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.02.22:803][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-16.02.22:803][434]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 3:02:22 AM)
+[2019.07.27-16.02.22:803][434]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-16.02.22:948][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.145401s)
+[2019.07.27-16.02.22:949][434]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-16.02.22:950][434]LogPlayLevel: PIE: World Init took: (0.001661s)
+[2019.07.27-16.02.22:950][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.147386s)
+[2019.07.27-16.02.22:986][434]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-16.02.23:002][434]LogInit: FAudioDevice initialized.
+[2019.07.27-16.02.23:037][434]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-16.02.23:060][434]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.32.23
+[2019.07.27-16.02.23:061][434]LogWorld: Bringing up level for play took: 0.022601
+[2019.07.27-16.02.23:074][434]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 -0.021
+[2019.07.27-16.02.23:104][434]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.02.24:970][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Crate1)
+[2019.07.27-16.02.27:006][547]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.02.35:981][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.02.35:981][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.02.36:040][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-16.02.36:040][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.02.36:082][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.02.36:134][887]LogPlayLevel: Display: Destroying online subsystem :Context_112
+[2019.07.27-16.02.50:443][351]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.02.54:358][469]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ANIM_Wolf_IdleBreathe)
+[2019.07.27-16.03.02:612][698]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ANIM_Wolf_Rest)
+[2019.07.27-16.03.09:488][891]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.07.27-16.03.22:897][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.03.30:175][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.03.51:820][436]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.04.42:166][232]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (ANIM_Wolf_IdleBreathe)
+[2019.07.27-16.05.02:504][868]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.05.18:550][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.05.51:341][294]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.07.27-16.05.54:486][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.05.54:618][396]LogTemp: Repeating last play command: Simulate
+[2019.07.27-16.05.54:643][396]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.05.54:643][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-16.05.54:644][396]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 3:05:54 AM)
+[2019.07.27-16.05.54:644][396]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-16.05.54:780][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.135498s)
+[2019.07.27-16.05.54:781][396]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-16.05.54:782][396]LogPlayLevel: PIE: World Init took: (0.002259s)
+[2019.07.27-16.05.54:782][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.138071s)
+[2019.07.27-16.05.54:814][396]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-16.05.54:831][396]LogInit: FAudioDevice initialized.
+[2019.07.27-16.05.54:866][396]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-16.05.54:880][396]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.35.54
+[2019.07.27-16.05.54:881][396]LogWorld: Bringing up level for play took: 0.014374
+[2019.07.27-16.05.54:896][396]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 -0.2
+[2019.07.27-16.05.54:911][396]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.06.10:340][955]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=134.31 Y=35.01 Z=0.00 Location: X=11982.35 Y=12517.32 Z=-24.13 Normal: X=0.73 Y=-0.69 Z=-0.00 PenetrationDepth:5.276 Actor:ANIM_Wolf_IdleBreathe_79 Component:SkeletalMeshComponent0 BoneName:Wolf_-Tail5 (0 other events since notify)
+[2019.07.27-16.06.17:401][224]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.06.17:402][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.06.17:474][224]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-16.06.17:474][224]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.06.17:517][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.06.17:572][225]LogPlayLevel: Display: Destroying online subsystem :Context_113
+[2019.07.27-16.06.21:775][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.06.34:836][750]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-16.06.36:160][779]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-16.06.36:183][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter01" FILE="../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.27-16.06.38:187][779]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter0126E7BF6346B5E36B048365BBA6E0FF66.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap'
+[2019.07.27-16.06.38:235][779]LogFileHelpers: Saving map 'Level_Chapter01' took 2.053
+[2019.07.27-16.06.44:917][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.06.50:970][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Water_Tower_Scanline)
+[2019.07.27-16.07.04:394][481]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.07.38:738][422]LogTemp: Repeating last play command: Simulate
+[2019.07.27-16.07.38:763][422]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.07.38:763][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-16.07.38:763][422]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 3:07:38 AM)
+[2019.07.27-16.07.38:763][422]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-16.07.38:906][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.142204s)
+[2019.07.27-16.07.38:907][422]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-16.07.38:907][422]LogPlayLevel: PIE: World Init took: (0.000979s)
+[2019.07.27-16.07.38:907][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.143392s)
+[2019.07.27-16.07.38:941][422]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-16.07.38:958][422]LogInit: FAudioDevice initialized.
+[2019.07.27-16.07.38:997][422]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-16.07.39:012][422]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.37.39
+[2019.07.27-16.07.39:013][422]LogWorld: Bringing up level for play took: 0.014630
+[2019.07.27-16.07.39:026][422]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 -0.07
+[2019.07.27-16.07.39:050][422]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.07.48:532][743]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.07.48:533][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.07.48:597][743]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-16.07.48:598][743]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.07.48:638][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.07.48:695][744]LogPlayLevel: Display: Destroying online subsystem :Context_114
+[2019.07.27-16.07.50:390][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Water_Tower_Scanline)
+[2019.07.27-16.07.52:223][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-16.08.01:504][ 47]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.08.01:611][ 50]LogTemp: Repeating last play command: Simulate
+[2019.07.27-16.08.01:637][ 50]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.08.01:637][ 50]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-16.08.01:637][ 50]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 3:08:01 AM)
+[2019.07.27-16.08.01:637][ 50]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-16.08.01:794][ 50]LogPlayLevel: PIE: StaticDuplicateObject took: (0.157750s)
+[2019.07.27-16.08.01:795][ 50]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-16.08.01:796][ 50]LogPlayLevel: PIE: World Init took: (0.001552s)
+[2019.07.27-16.08.01:796][ 50]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.159910s)
+[2019.07.27-16.08.01:831][ 50]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-16.08.01:847][ 50]LogInit: FAudioDevice initialized.
+[2019.07.27-16.08.01:887][ 50]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-16.08.01:901][ 50]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.38.01
+[2019.07.27-16.08.01:902][ 50]LogWorld: Bringing up level for play took: 0.013917
+[2019.07.27-16.08.01:915][ 50]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.82
+[2019.07.27-16.08.01:939][ 50]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.08.09:998][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.08.09:998][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.08.10:068][332]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-16.08.10:068][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.08.10:110][332]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.08.10:129][333]LogPlayLevel: Display: Destroying online subsystem :Context_115
+[2019.07.27-16.08.11:825][381]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Water_Tower_Scanline)
+[2019.07.27-16.08.13:485][422]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-16.08.19:381][558]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-16.08.29:048][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.08.29:156][786]LogTemp: Repeating last play command: Simulate
+[2019.07.27-16.08.29:180][786]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.08.29:181][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-16.08.29:181][786]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 3:08:29 AM)
+[2019.07.27-16.08.29:181][786]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-16.08.29:319][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.137365s)
+[2019.07.27-16.08.29:320][786]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-16.08.29:320][786]LogPlayLevel: PIE: World Init took: (0.001405s)
+[2019.07.27-16.08.29:320][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.139083s)
+[2019.07.27-16.08.29:357][786]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-16.08.29:373][786]LogInit: FAudioDevice initialized.
+[2019.07.27-16.08.29:405][786]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-16.08.29:419][786]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.38.29
+[2019.07.27-16.08.29:420][786]LogWorld: Bringing up level for play took: 0.014427
+[2019.07.27-16.08.29:434][786]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.338
+[2019.07.27-16.08.29:464][786]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.08.38:162][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.08.38:162][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.08.38:242][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-16.08.38:243][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.08.38:280][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.08.38:332][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2019.07.27-16.08.39:603][124]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Water_Tower_Scanline)
+[2019.07.27-16.08.42:793][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.09.12:529][990]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Crate1)
+[2019.07.27-16.09.17:104][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-16.09.23:423][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.09.23:531][275]LogTemp: Repeating last play command: Simulate
+[2019.07.27-16.09.23:553][275]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.09.23:553][275]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-16.09.23:554][275]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 3:09:23 AM)
+[2019.07.27-16.09.23:554][275]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-16.09.23:695][275]LogPlayLevel: PIE: StaticDuplicateObject took: (0.140614s)
+[2019.07.27-16.09.23:696][275]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-16.09.23:696][275]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2019.07.27-16.09.23:696][275]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.142033s)
+[2019.07.27-16.09.23:739][275]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-16.09.23:761][275]LogInit: FAudioDevice initialized.
+[2019.07.27-16.09.23:795][275]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-16.09.23:810][275]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.39.23
+[2019.07.27-16.09.23:812][275]LogWorld: Bringing up level for play took: 0.015998
+[2019.07.27-16.09.23:825][275]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.729
+[2019.07.27-16.09.23:847][275]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.09.52:472][220]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.09.52:473][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.09.52:542][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-16.09.52:543][220]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.09.52:580][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.09.52:634][221]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2019.07.27-16.09.57:302][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.10.10:955][701]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Rock.Rock
+[2019.07.27-16.10.32:955][795]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Water_Tower_Scanline)
+[2019.07.27-16.10.35:880][860]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.10.36:057][863]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Water_Tower_Scanline.Water_Tower_Scanline
+[2019.07.27-16.10.38:848][922]LogSlate: Window 'Water_Tower_Scanline' being destroyed
+[2019.07.27-16.10.56:894][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.11.15:555][759]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Geometry/Rock.Rock
+[2019.07.27-16.11.33:287][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Water_Tower_Scanline" FILE="../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Geometry/Water_Tower_Scanline.uasset" SILENT=true
+[2019.07.27-16.11.33:343][360]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Water_Tower_ScanlineBA36CE144A2B0AF27BE339920EBEF67F.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Geometry/Water_Tower_Scanline.uasset'
+[2019.07.27-16.11.36:207][431]LogTemp: Repeating last play command: Simulate
+[2019.07.27-16.11.36:239][431]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.11.36:239][431]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-16.11.36:239][431]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 3:11:36 AM)
+[2019.07.27-16.11.36:239][431]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-16.11.36:376][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.136653s)
+[2019.07.27-16.11.36:379][431]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-16.11.36:379][431]LogPlayLevel: PIE: World Init took: (0.003210s)
+[2019.07.27-16.11.36:379][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.140213s)
+[2019.07.27-16.11.36:421][431]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-16.11.36:442][431]LogInit: FAudioDevice initialized.
+[2019.07.27-16.11.36:480][431]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-16.11.36:495][431]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.41.36
+[2019.07.27-16.11.36:496][431]LogWorld: Bringing up level for play took: 0.015893
+[2019.07.27-16.11.36:509][431]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 -0.587
+[2019.07.27-16.11.36:533][431]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.11.46:408][786]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.11.46:408][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.11.46:476][786]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-16.11.46:476][786]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.11.46:515][786]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.11.46:565][787]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2019.07.27-16.11.48:811][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.14.48:590][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Water_Tower_Scanline)
+[2019.07.27-16.14.57:331][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.15.06:940][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.15.08:786][645]LogTemp: Repeating last play command: Simulate
+[2019.07.27-16.15.08:807][645]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.15.08:808][645]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-16.15.08:808][645]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 3:15:08 AM)
+[2019.07.27-16.15.08:808][645]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-16.15.08:950][645]LogPlayLevel: PIE: StaticDuplicateObject took: (0.141991s)
+[2019.07.27-16.15.08:951][645]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-16.15.08:951][645]LogPlayLevel: PIE: World Init took: (0.001450s)
+[2019.07.27-16.15.08:952][645]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.143913s)
+[2019.07.27-16.15.08:995][645]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-16.15.09:011][645]LogInit: FAudioDevice initialized.
+[2019.07.27-16.15.09:048][645]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-16.15.09:062][645]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.45.09
+[2019.07.27-16.15.09:063][645]LogWorld: Bringing up level for play took: 0.014361
+[2019.07.27-16.15.09:077][645]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 -0.019
+[2019.07.27-16.15.09:097][645]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.15.17:822][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.15.17:822][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.15.17:900][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-16.15.17:900][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.15.17:935][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.15.17:990][931]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2019.07.27-16.15.20:041][992]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.07.27-16.15.21:569][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Water_Tower_Scanline)
+[2019.07.27-16.15.27:216][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.15.33:106][347]LogTemp: Repeating last play command: Simulate
+[2019.07.27-16.15.33:134][347]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.15.33:134][347]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-16.15.33:134][347]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 3:15:33 AM)
+[2019.07.27-16.15.33:135][347]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-16.15.33:274][347]LogPlayLevel: PIE: StaticDuplicateObject took: (0.139528s)
+[2019.07.27-16.15.33:275][347]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-16.15.33:275][347]LogPlayLevel: PIE: World Init took: (0.001041s)
+[2019.07.27-16.15.33:275][347]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.140790s)
+[2019.07.27-16.15.33:320][347]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-16.15.33:337][347]LogInit: FAudioDevice initialized.
+[2019.07.27-16.15.33:373][347]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-16.15.33:386][347]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.45.33
+[2019.07.27-16.15.33:387][347]LogWorld: Bringing up level for play took: 0.013334
+[2019.07.27-16.15.33:400][347]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.304
+[2019.07.27-16.15.33:425][347]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.15.40:774][592]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.15.40:775][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.15.40:841][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-16.15.40:841][592]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.15.40:878][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.15.40:928][593]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2019.07.27-16.15.42:879][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Water_Tower_Scanline)
+[2019.07.27-16.15.46:350][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.15.54:148][966]LogTemp: Repeating last play command: Simulate
+[2019.07.27-16.15.54:177][966]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.15.54:177][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-16.15.54:177][966]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 3:15:54 AM)
+[2019.07.27-16.15.54:178][966]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-16.15.54:305][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.128251s)
+[2019.07.27-16.15.54:306][966]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-16.15.54:306][966]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2019.07.27-16.15.54:307][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.129587s)
+[2019.07.27-16.15.54:346][966]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-16.15.54:364][966]LogInit: FAudioDevice initialized.
+[2019.07.27-16.15.54:395][966]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-16.15.54:409][966]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.45.54
+[2019.07.27-16.15.54:410][966]LogWorld: Bringing up level for play took: 0.014749
+[2019.07.27-16.15.54:423][966]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 -0.673
+[2019.07.27-16.15.54:448][966]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.16.00:752][170]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.16.00:752][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.16.00:831][170]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-16.16.00:831][170]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.16.00:872][170]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.16.00:937][171]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2019.07.27-16.16.03:312][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Water_Tower_Scanline)
+[2019.07.27-16.16.06:604][325]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-16.16.09:170][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.16.09:238][391]LogTemp: Repeating last play command: Simulate
+[2019.07.27-16.16.09:264][391]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.16.09:265][391]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-16.16.09:265][391]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 3:16:09 AM)
+[2019.07.27-16.16.09:265][391]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-16.16.09:398][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.133102s)
+[2019.07.27-16.16.09:399][391]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-16.16.09:399][391]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2019.07.27-16.16.09:399][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.134314s)
+[2019.07.27-16.16.09:445][391]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-16.16.09:462][391]LogInit: FAudioDevice initialized.
+[2019.07.27-16.16.09:503][391]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-16.16.09:518][391]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.46.09
+[2019.07.27-16.16.09:519][391]LogWorld: Bringing up level for play took: 0.015275
+[2019.07.27-16.16.09:535][391]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.439
+[2019.07.27-16.16.09:565][391]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.16.16:532][643]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.16.16:532][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.16.16:601][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-16.16.16:601][643]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.16.16:642][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.16.16:689][644]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2019.07.27-16.16.19:001][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Water_Tower_Scanline)
+[2019.07.27-16.16.20:883][761]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-16.17.00:991][944]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-16.17.09:270][138]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.17.09:409][142]LogTemp: Repeating last play command: Simulate
+[2019.07.27-16.17.09:435][142]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.17.09:435][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-16.17.09:435][142]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 3:17:09 AM)
+[2019.07.27-16.17.09:435][142]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-16.17.09:576][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.139546s)
+[2019.07.27-16.17.09:576][142]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-16.17.09:577][142]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2019.07.27-16.17.09:577][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.140794s)
+[2019.07.27-16.17.09:623][142]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-16.17.09:639][142]LogInit: FAudioDevice initialized.
+[2019.07.27-16.17.09:678][142]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-16.17.09:691][142]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.47.09
+[2019.07.27-16.17.09:692][142]LogWorld: Bringing up level for play took: 0.014104
+[2019.07.27-16.17.09:706][142]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.61
+[2019.07.27-16.17.09:727][142]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.17.17:394][385]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.17.17:394][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.17.17:470][385]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-16.17.17:470][385]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.17.17:514][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.17.17:574][386]LogPlayLevel: Display: Destroying online subsystem :Context_126
+[2019.07.27-16.17.21:401][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Water_Tower_Scanline)
+[2019.07.27-16.17.23:684][559]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-16.17.28:887][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.17.29:023][684]LogTemp: Repeating last play command: Simulate
+[2019.07.27-16.17.29:059][684]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.17.29:059][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-16.17.29:059][684]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 3:17:29 AM)
+[2019.07.27-16.17.29:059][684]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-16.17.29:210][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.150263s)
+[2019.07.27-16.17.29:210][684]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-16.17.29:211][684]LogPlayLevel: PIE: World Init took: (0.001917s)
+[2019.07.27-16.17.29:212][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.152636s)
+[2019.07.27-16.17.29:249][684]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-16.17.29:269][684]LogInit: FAudioDevice initialized.
+[2019.07.27-16.17.29:306][684]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-16.17.29:324][684]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.47.29
+[2019.07.27-16.17.29:325][684]LogWorld: Bringing up level for play took: 0.018881
+[2019.07.27-16.17.29:340][684]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.244
+[2019.07.27-16.17.29:367][684]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.17.36:488][941]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.17.36:488][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.17.36:560][941]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-16.17.36:560][941]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.17.36:601][941]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.17.36:657][942]LogPlayLevel: Display: Destroying online subsystem :Context_127
+[2019.07.27-16.17.38:952][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Water_Tower_Scanline)
+[2019.07.27-16.17.40:270][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-16.17.41:125][ 61]LogHttp: Warning: 00000198EBABE700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-16.17.41:125][ 61]LogHttp: Warning: 00000198EBABE700: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x198eb7dbf10 [can pipeline])
+[2019.07.27-16.17.41:125][ 61]LogHttp: Warning: 00000198EBABE700: libcurl info message cache 1 (Re-using existing connection! (#209) with host datarouter.ol.epicgames.com)
+[2019.07.27-16.17.41:125][ 61]LogHttp: Warning: 00000198EBABE700: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.235.38.48) port 443 (#209))
+[2019.07.27-16.17.41:125][ 61]LogHttp: Warning: 00000198EBABE700: libcurl info message cache 3 (upload completely sent off: 561 out of 561 bytes)
+[2019.07.27-16.17.41:125][ 61]LogHttp: Warning: 00000198EBABE700: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2019.07.27-16.17.41:125][ 61]LogHttp: Warning: 00000198EBABE700: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2019.07.27-16.17.41:125][ 61]LogHttp: Warning: 00000198EBABE700: libcurl info message cache 6 (Closing connection 209)
+[2019.07.27-16.17.41:125][ 61]LogHttp: Warning: 00000198EBABE700: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2019.07.27-16.17.41:125][ 61]LogHttp: Warning: 00000198EBABE700: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-16.17.41:125][ 61]LogHttp: Warning: 00000198EBABE700: libcurl info message cache 9 (Closing connection 210)
+[2019.07.27-16.17.41:125][ 61]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-16.17.45:207][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.18.27:385][314]LogTemp: Repeating last play command: Simulate
+[2019.07.27-16.18.27:408][314]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.18.27:409][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-16.18.27:409][314]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 3:18:27 AM)
+[2019.07.27-16.18.27:409][314]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-16.18.27:553][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.143255s)
+[2019.07.27-16.18.27:554][314]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-16.18.27:555][314]LogPlayLevel: PIE: World Init took: (0.001717s)
+[2019.07.27-16.18.27:555][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.145437s)
+[2019.07.27-16.18.27:601][314]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-16.18.27:619][314]LogInit: FAudioDevice initialized.
+[2019.07.27-16.18.27:653][314]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-16.18.27:667][314]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.48.27
+[2019.07.27-16.18.27:669][314]LogWorld: Bringing up level for play took: 0.015226
+[2019.07.27-16.18.27:682][314]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.587
+[2019.07.27-16.18.27:702][314]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.18.42:816][901]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=13179.122 Y=10770.691 Z=-21.189] for [FirstPersonProjectile_C]
+[2019.07.27-16.18.43:348][932]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=13188.589 Y=10778.950 Z=-19.811] for [FirstPersonProjectile_C]
+[2019.07.27-16.18.47:251][110]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.18.47:251][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.18.47:316][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-16.18.47:316][110]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.18.47:357][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.18.47:407][111]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2019.07.27-16.18.49:846][184]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.07.27-16.18.50:878][205]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2019.07.27-16.18.52:143][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Water_Tower_Scanline)
+[2019.07.27-16.18.58:722][409]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-16.19.01:322][483]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-16.19.04:618][563]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-16.19.20:809][982]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2019.07.27-16.19.22:445][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cabin)
+[2019.07.27-16.19.41:184][633]LogHttp: Warning: 000001997CFC5300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-16.19.41:184][633]LogHttp: Warning: 000001997CFC5300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-16.19.41:184][633]LogHttp: Warning: 000001997CFC5300: libcurl info message cache 1 (Closing connection 211)
+[2019.07.27-16.19.41:185][633]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.07.27-16.20.08:362][561]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-16.20.17:933][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Level_Chapter01" FILE="../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.07.27-16.20.19:873][721]LogSavePackage: Moving '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Saved/Level_Chapter01708F36624DBA4A123F67CDBE06B848EB.tmp' to '../../../../../../Users/prasanth/Desktop/UE4_Beginner/Content/Maps/Level_Chapter01.umap'
+[2019.07.27-16.20.19:915][721]LogFileHelpers: Saving map 'Level_Chapter01' took 1.983
+[2019.07.27-16.20.20:852][739]LogTemp: Repeating last play command: Simulate
+[2019.07.27-16.20.20:875][739]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.20.20:875][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.27-16.20.20:875][739]PIE: New page: SIE session: Level_Chapter01 (Jul 28, 2019, 3:20:20 AM)
+[2019.07.27-16.20.20:875][739]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Level_Chapter01
+[2019.07.27-16.20.21:020][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.144442s)
+[2019.07.27-16.20.21:021][739]LogAIModule: Creating AISystem for world Level_Chapter01
+[2019.07.27-16.20.21:021][739]LogPlayLevel: PIE: World Init took: (0.001122s)
+[2019.07.27-16.20.21:021][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Level_Chapter01.Level_Chapter01 to /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 (0.145890s)
+[2019.07.27-16.20.21:059][739]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.27-16.20.21:076][739]LogInit: FAudioDevice initialized.
+[2019.07.27-16.20.21:112][739]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2019.07.27-16.20.21:127][739]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Level_Chapter01.Level_Chapter01 up for play (max tick rate 60) at 2019.07.27-21.50.21
+[2019.07.27-16.20.21:128][739]LogWorld: Bringing up level for play took: 0.015695
+[2019.07.27-16.20.21:141][739]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Level_Chapter01 0.046
+[2019.07.27-16.20.21:161][739]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.21.24:788][895]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.07.27-16.21.31:572][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.21.31:697][134]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.21.31:698][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.21.31:747][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.27-16.21.31:747][134]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01' with GeneratedClass '/Game/Maps/Level_Chapter01.Level_Chapter01_C' with ClassGeneratedBy '/Game/Maps/Level_Chapter01.Level_Chapter01:PersistentLevel.Level_Chapter01'
+[2019.07.27-16.21.31:786][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.27-16.21.31:805][135]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2019.07.27-16.21.32:619][168]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2019.07.27-16.21.34:675][245]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.27-16.21.38:089][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.27-16.21.39:856][468]LogSlate: Window 'UE4_Beginner - Unreal Editor' being destroyed
+[2019.07.27-16.21.40:381][469]Cmd: QUIT_EDITOR
+[2019.07.27-16.21.41:653][469]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.27-16.21.41:730][469]LogExit: Preparing to exit.
+[2019.07.27-16.21.43:782][469]LogExit: Editor shut down
+[2019.07.27-16.21.43:784][469]LogExit: Transaction tracking system shut down
+[2019.07.27-16.21.45:162][469]LogExit: Object subsystem successfully closed.
+[2019.07.27-16.21.45:359][469]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.07.27-16.21.45:432][469]LogD3D11RHI: Shutdown
+[2019.07.27-16.21.45:432][469]LogD3D11RHI: CleanupD3DDevice
+[2019.07.27-16.21.45:533][469]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.07.27-16.21.46:549][469]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (638)
+[2019.07.27-16.21.46:552][469]LogModuleManager: Shutting down and abandoning module PortalProxies (636)
+[2019.07.27-16.21.46:552][469]LogModuleManager: Shutting down and abandoning module DistCurveEditor (634)
+[2019.07.27-16.21.46:552][469]LogModuleManager: Shutting down and abandoning module Cascade (632)
+[2019.07.27-16.21.46:553][469]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (630)
+[2019.07.27-16.21.46:553][469]LogModuleManager: Shutting down and abandoning module MeshBuilder (628)
+[2019.07.27-16.21.46:553][469]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2019.07.27-16.21.46:553][469]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2019.07.27-16.21.46:556][469]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.07.27-16.21.46:556][469]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.07.27-16.21.46:564][469]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.07.27-16.21.46:581][469]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.07.27-16.21.46:581][469]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.07.27-16.21.46:581][469]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.07.27-16.21.46:590][469]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.07.27-16.21.46:601][469]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.07.27-16.21.46:601][469]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.07.27-16.21.46:626][469]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.07.27-16.21.46:626][469]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.07.27-16.21.46:626][469]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.07.27-16.21.46:626][469]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.07.27-16.21.46:626][469]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.07.27-16.21.46:627][469]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.07.27-16.21.46:627][469]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.07.27-16.21.46:639][469]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.07.27-16.21.46:650][469]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.07.27-16.21.46:650][469]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.07.27-16.21.46:650][469]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.07.27-16.21.46:650][469]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.07.27-16.21.46:672][469]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.07.27-16.21.46:673][469]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.07.27-16.21.46:673][469]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.07.27-16.21.46:673][469]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.07.27-16.21.46:673][469]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.07.27-16.21.46:673][469]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.07.27-16.21.46:673][469]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.07.27-16.21.46:679][469]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.07.27-16.21.46:682][469]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.07.27-16.21.46:692][469]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.07.27-16.21.46:696][469]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.07.27-16.21.46:696][469]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.07.27-16.21.46:696][469]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.07.27-16.21.46:696][469]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.07.27-16.21.46:696][469]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.07.27-16.21.46:696][469]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.07.27-16.21.46:696][469]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.07.27-16.21.46:696][469]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.07.27-16.21.46:696][469]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.07.27-16.21.46:696][469]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.07.27-16.21.46:696][469]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.07.27-16.21.46:696][469]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.07.27-16.21.46:696][469]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.07.27-16.21.46:696][469]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.07.27-16.21.46:696][469]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.07.27-16.21.46:697][469]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.07.27-16.21.46:717][469]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.07.27-16.21.46:729][469]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.07.27-16.21.46:731][469]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.07.27-16.21.46:764][469]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.07.27-16.21.46:773][469]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.07.27-16.21.46:773][469]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.07.27-16.21.46:773][469]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.07.27-16.21.46:773][469]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.07.27-16.21.46:773][469]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.07.27-16.21.47:541][469]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.07.27-16.21.47:541][469]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.07.27-16.21.47:541][469]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.07.27-16.21.47:541][469]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.07.27-16.21.47:541][469]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.07.27-16.21.47:541][469]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.07.27-16.21.47:560][469]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.07.27-16.21.47:598][469]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.07.27-16.21.47:618][469]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.07.27-16.21.47:637][469]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.07.27-16.21.47:637][469]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.07.27-16.21.47:640][469]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.07.27-16.21.47:670][469]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.07.27-16.21.47:670][469]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.07.27-16.21.47:670][469]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.07.27-16.21.47:670][469]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.07.27-16.21.47:670][469]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.07.27-16.21.47:671][469]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.07.27-16.21.47:755][469]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.07.27-16.21.47:772][469]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.07.27-16.21.47:801][469]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.07.27-16.21.47:809][469]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.07.27-16.21.47:865][469]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.07.27-16.21.47:943][469]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.07.27-16.21.47:984][469]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.07.27-16.21.48:001][469]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.07.27-16.21.48:061][469]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.07.27-16.21.48:061][469]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.07.27-16.21.48:061][469]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.07.27-16.21.48:061][469]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.07.27-16.21.48:091][469]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.07.27-16.21.48:092][469]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.07.27-16.21.48:092][469]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.07.27-16.21.48:123][469]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.07.27-16.21.48:124][469]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.07.27-16.21.48:125][469]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.07.27-16.21.48:125][469]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.07.27-16.21.48:141][469]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.07.27-16.21.48:142][469]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.07.27-16.21.48:142][469]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.07.27-16.21.48:154][469]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.07.27-16.21.48:155][469]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.07.27-16.21.48:155][469]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.07.27-16.21.48:161][469]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.07.27-16.21.48:162][469]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.07.27-16.21.48:162][469]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.07.27-16.21.48:162][469]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.07.27-16.21.48:162][469]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.07.27-16.21.48:162][469]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.07.27-16.21.48:162][469]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.07.27-16.21.48:169][469]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.07.27-16.21.48:169][469]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.07.27-16.21.48:182][469]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.07.27-16.21.48:182][469]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.07.27-16.21.48:190][469]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.07.27-16.21.48:197][469]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.07.27-16.21.48:444][469]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.07.27-16.21.48:464][469]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.07.27-16.21.48:465][469]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.07.27-16.21.48:465][469]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.07.27-16.21.48:475][469]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.07.27-16.21.48:475][469]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.07.27-16.21.48:475][469]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.07.27-16.21.48:481][469]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.07.27-16.21.48:481][469]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.07.27-16.21.48:491][469]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.07.27-16.21.48:491][469]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.07.27-16.21.48:491][469]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.07.27-16.21.48:491][469]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.07.27-16.21.48:502][469]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.07.27-16.21.48:517][469]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.07.27-16.21.48:517][469]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.07.27-16.21.48:517][469]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.07.27-16.21.48:526][469]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.07.27-16.21.48:526][469]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.07.27-16.21.48:526][469]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.07.27-16.21.48:527][469]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.07.27-16.21.48:535][469]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.07.27-16.21.48:535][469]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.07.27-16.21.48:535][469]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.07.27-16.21.48:535][469]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.07.27-16.21.48:535][469]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.07.27-16.21.48:535][469]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.07.27-16.21.48:535][469]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.07.27-16.21.48:535][469]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.07.27-16.21.48:535][469]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.07.27-16.21.48:548][469]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.07.27-16.21.48:548][469]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.07.27-16.21.48:553][469]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.07.27-16.21.48:560][469]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.07.27-16.21.48:560][469]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.07.27-16.21.48:564][469]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.07.27-16.21.48:573][469]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.07.27-16.21.48:573][469]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.07.27-16.21.48:573][469]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.07.27-16.21.48:573][469]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.07.27-16.21.48:573][469]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.07.27-16.21.48:581][469]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.07.27-16.21.48:601][469]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.07.27-16.21.48:612][469]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.07.27-16.21.48:612][469]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.07.27-16.21.48:625][469]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.07.27-16.21.48:625][469]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.07.27-16.21.48:625][469]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.07.27-16.21.48:625][469]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.07.27-16.21.48:625][469]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.07.27-16.21.48:625][469]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.07.27-16.21.48:644][469]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.07.27-16.21.48:644][469]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.07.27-16.21.48:644][469]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.07.27-16.21.48:644][469]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.07.27-16.21.48:644][469]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.07.27-16.21.48:648][469]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.07.27-16.21.48:648][469]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.07.27-16.21.48:648][469]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.07.27-16.21.48:749][469]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.07.27-16.21.48:911][469]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.07.27-16.21.48:911][469]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.07.27-16.21.48:952][469]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.07.27-16.21.48:952][469]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.07.27-16.21.48:952][469]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.07.27-16.21.48:952][469]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.07.27-16.21.49:003][469]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.07.27-16.21.49:079][469]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.07.27-16.21.49:287][469]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.07.27-16.21.49:288][469]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.07.27-16.21.49:288][469]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.07.27-16.21.49:347][469]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.07.27-16.21.49:350][469]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.07.27-16.21.49:438][469]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.07.27-16.21.49:438][469]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.07.27-16.21.49:438][469]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.07.27-16.21.49:448][469]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.07.27-16.21.49:453][469]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.07.27-16.21.49:453][469]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.07.27-16.21.49:465][469]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.07.27-16.21.49:471][469]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.07.27-16.21.49:471][469]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.07.27-16.21.49:471][469]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.07.27-16.21.49:491][469]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.07.27-16.21.49:491][469]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.07.27-16.21.49:491][469]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.07.27-16.21.49:491][469]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.07.27-16.21.49:504][469]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.07.27-16.21.49:509][469]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.07.27-16.21.49:509][469]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.07.27-16.21.49:531][469]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.07.27-16.21.49:536][469]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.07.27-16.21.49:552][469]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.07.27-16.21.49:552][469]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.07.27-16.21.49:564][469]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.07.27-16.21.49:598][469]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.07.27-16.21.49:635][469]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.07.27-16.21.49:636][469]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.07.27-16.21.49:653][469]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.07.27-16.21.49:653][469]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.07.27-16.21.49:688][469]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.07.27-16.21.49:703][469]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.07.27-16.21.49:703][469]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.07.27-16.21.49:703][469]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.07.27-16.21.49:703][469]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.07.27-16.21.49:703][469]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.07.27-16.21.49:703][469]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.07.27-16.21.49:703][469]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.07.27-16.21.49:703][469]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.07.27-16.21.49:715][469]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.07.27-16.21.49:720][469]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.07.27-16.21.49:720][469]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.07.27-16.21.49:728][469]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.07.27-16.21.49:746][469]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.07.27-16.21.49:746][469]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.07.27-16.21.49:752][469]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.07.27-16.21.49:756][469]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.07.27-16.21.49:757][469]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.07.27-16.21.49:856][469]LogDerivedDataCache: Shutdown
+[2019.07.27-16.21.49:856][469]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.07.27-16.21.49:871][469]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.07.27-16.21.49:871][469]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.07.27-16.21.49:922][469]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.07.27-16.21.49:926][469]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.07.27-16.21.49:932][469]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.07.27-16.21.49:932][469]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.07.27-16.21.49:948][469]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.07.27-16.21.49:948][469]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.07.27-16.21.49:948][469]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.07.27-16.21.49:948][469]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.07.27-16.21.49:963][469]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.07.27-16.21.49:963][469]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.07.27-16.21.49:963][469]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.07.27-16.21.49:963][469]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.07.27-16.21.49:963][469]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.07.27-16.21.49:963][469]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.07.27-16.21.49:963][469]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.07.27-16.21.49:983][469]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.07.27-16.21.49:983][469]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.07.27-16.21.49:983][469]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.07.27-16.21.49:983][469]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.07.27-16.21.49:983][469]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.07.27-16.21.49:998][469]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.07.27-16.21.49:998][469]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.07.27-16.21.50:004][469]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.07.27-16.21.50:005][469]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.07.27-16.21.50:054][469]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.07.27-16.21.50:054][469]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.07.27-16.21.50:054][469]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.07.27-16.21.50:054][469]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.07.27-16.21.50:054][469]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.07.27-16.21.50:054][469]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.07.27-16.21.50:054][469]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.07.27-16.21.50:054][469]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.07.27-16.21.50:054][469]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.07.27-16.21.50:054][469]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.07.27-16.21.50:054][469]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.07.27-16.21.50:055][469]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.07.27-16.21.50:055][469]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.07.27-16.21.50:065][469]LogHMD: Freeing OpenVRDLLHandle.
+[2019.07.27-16.21.50:065][469]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.07.27-16.21.50:065][469]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.07.27-16.21.50:065][469]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.07.27-16.21.50:065][469]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.07.27-16.21.50:065][469]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.07.27-16.21.50:071][469]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.07.27-16.21.50:085][469]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.07.27-16.21.50:098][469]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.07.27-16.21.50:098][469]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.07.27-16.21.50:098][469]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B91A5B3D2-429F-9434-2A6F-228C307BBED8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=d2d1d7174f5ef85b2265929e506bdcee%7Cbcc398e727eb444eb9b7a5c047855f48%7C0c27e088-a84d-4564-84f8-4ad4f17cd64d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.07.27-16.21.50:098][469]LogHttp: Warning: 00000198EBABEC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.07.27-16.21.50:098][469]LogHttp: Warning: 00000198EBABEC00: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.07.27-16.21.50:099][469]LogHttp: Warning: 00000198EBABEC00: libcurl info message cache 1 (Closing connection 212)
+[2019.07.27-16.21.50:109][469]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.07.27-16.21.50:112][469]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.07.27-16.21.50:112][469]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.07.27-16.21.50:112][469]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.07.27-16.21.50:112][469]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.07.27-16.21.50:112][469]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.07.27-16.21.50:112][469]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.07.27-16.21.50:112][469]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.07.27-16.21.50:113][469]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.07.27-16.21.50:113][469]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.07.27-16.21.50:133][469]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.07.27-16.21.50:134][469]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.07.27-16.21.50:149][469]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.07.27-16.21.50:149][469]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.07.27-16.21.50:158][469]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.07.27-16.21.50:158][469]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.07.27-16.21.50:158][469]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.07.27-16.21.50:158][469]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.07.27-16.21.50:175][469]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.07.27-16.21.50:187][469]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.07.27-16.21.50:187][469]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.07.27-16.21.50:200][469]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.07.27-16.21.50:200][469]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.07.27-16.21.50:200][469]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.07.27-16.21.50:200][469]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.07.27-16.21.50:204][469]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.07.27-16.21.50:204][469]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.07.27-16.21.50:211][469]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.07.27-16.21.50:211][469]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.07.27-16.21.50:225][469]LogExit: Exiting.
+[2019.07.27-16.21.50:260][469]Log file closed, 07/27/19 21:51:50
